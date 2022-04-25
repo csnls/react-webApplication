@@ -2,6 +2,8 @@ import { useParams } from 'react-router-dom' // hook mis à disposition par reac
 import { Link } from 'react-router-dom'
 import styled from 'styled-components'
 import colors from '../../utils/style/colors.js'
+import { useState, useEffect } from 'react' // useEffect pour déclencer fetch et useState pour stocker le retour de l'API dans le state
+import { Loader } from '../../utils/style/atoms.jsx'
 
 var PageTitle = styled.h1`
   color: ${colors.db};
@@ -41,33 +43,56 @@ function Survey() {
       ? parseInt(questionNumber)
       : parseInt(questionNumber) + 1
 
+  var [surveyData, setSurveyData] = useState({}) // les données de l'API
+  var [isDataLoading, setDataLoading] = useState(false) // les données de l'API
+  var [error, setError] = useState(false)
+
+  useEffect(() => {
+    setDataLoading(true)
+    fetch(`http://localhost:8000/survey`)
+      .then((response) => response.json())
+      .then(({ surveyData }) => {
+        setSurveyData(surveyData)
+        setDataLoading(false)
+      })
+      .catch((error) => {
+        console.log(error)
+        setError(true)
+      })
+  }, [])
+
+  if (error) {
+    return <span>Oups il y a eu un problème</span>
+  }
+
   return (
     <div>
       <PageTitle>Question {questionNumber}</PageTitle>
+
       <SurveyQuestion>
-        {parseInt(questionNumber) === 1 ? (
-          <div>
-            <PageSubTitle>
-              Votre application doit-elle apparaître en premier dans les
-              résultats de recherche ?
-            </PageSubTitle>
-            <button type="button" class="survey--btn">
-              Oui
-            </button>
-            <button type="button" class="survey--btn">
-              Non
-            </button>
-          </div>
-        ) : (
-          ''
-        )}
+        <div>
+          {isDataLoading ? (
+            <Loader />
+          ) : (
+            <PageSubTitle>{surveyData[questionNumber]}</PageSubTitle>
+          )}
+          <button type="button" class="survey--btn">
+            Oui
+          </button>
+          <button type="button" class="survey--btn">
+            Non
+          </button>
+        </div>
+
+        {/* Pas de prev en quest 1, pas de next en quest 10 */}
+
         {parseInt(questionNumber) === 1 ? (
           <StyledLink to={`/survey/${questionNumberPrev}`}></StyledLink>
         ) : (
           <StyledLink to={`/survey/${questionNumberPrev}`}>Prev</StyledLink>
         )}
 
-        {parseInt(questionNumber) === 10 ? (
+        {parseInt(questionNumber) === 6 ? (
           <StyledLink to={`/results`}>Résultats</StyledLink>
         ) : (
           <StyledLink to={`/survey/${questionNumberNext}`}>Next</StyledLink>

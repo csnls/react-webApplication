@@ -30,7 +30,7 @@ var CardWrapper = styled.div`
   }
 `
 
-function Card({ label, title, picture }) {
+function Card({ label, title, picture, job }) {
   // 3 props : label, title, picture
   return (
     <CardWrapper>
@@ -38,6 +38,7 @@ function Card({ label, title, picture }) {
       <CardLabel>{label}</CardLabel>
       <CardImage src={picture} alt="freelance" />
       <span>{title}</span>
+      <span>{job}</span>
     </CardWrapper>
   )
 }
@@ -47,12 +48,14 @@ Card.propTypes = {
   label: PropTypes.string.isRequired,
   title: PropTypes.string.isRequired, // la prop title est requise pour le bon fonctionnement de l'app
   picture: PropTypes.string.isRequired,
+  job: PropTypes.string.isRequired,
 }
 
 // pour définir une prop par défaut
 Card.defaultProps = {
   label: '',
   title: '', // si on omet de déclarer la prop title
+  job: '',
   picture: DefaultPicture,
 }
 
