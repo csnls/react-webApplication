@@ -2,8 +2,11 @@ import { useParams } from 'react-router-dom' // hook mis à disposition par reac
 import { Link } from 'react-router-dom'
 import styled from 'styled-components'
 import colors from '../../utils/style/colors.js'
-import { useState, useEffect } from 'react' // useEffect pour déclencer fetch et useState pour stocker le retour de l'API dans le state
 import { Loader } from '../../utils/style/atoms.jsx'
+
+import { useContext } from 'react'
+import { SurveyContext } from '../../utils/context'
+import { useFetch, useTheme } from '../../utils/hooks'
 
 var PageTitle = styled.h1`
   color: ${colors.db};
@@ -42,24 +45,17 @@ function Survey() {
     parseInt(questionNumber) === 10
       ? parseInt(questionNumber)
       : parseInt(questionNumber) + 1
+  var { theme } = useTheme()
 
-  var [surveyData, setSurveyData] = useState({}) // les données de l'API
-  var [isDataLoading, setDataLoading] = useState(false) // les données de l'API
-  var [error, setError] = useState(false)
+  var { answers, saveAnswers } = useContext(SurveyContext)
 
-  useEffect(() => {
-    setDataLoading(true)
-    fetch(`http://localhost:8000/survey`)
-      .then((response) => response.json())
-      .then(({ surveyData }) => {
-        setSurveyData(surveyData)
-        setDataLoading(false)
-      })
-      .catch((error) => {
-        console.log(error)
-        setError(true)
-      })
-  }, [])
+  function saveReply(answer) {
+    saveAnswers({ [questionNumber]: answer })
+  }
+
+  var { data, isLoading, error } = useFetch('http://localhost:8000/survey')
+  var { surveyData } = data
+  // autre écriture : var surveyData = data?.surveyData
 
   if (error) {
     return <span>Oups il y a eu un problème</span>
@@ -67,19 +63,33 @@ function Survey() {
 
   return (
     <div>
-      <PageTitle>Question {questionNumber}</PageTitle>
+      <PageTitle theme={theme}>Question {questionNumber}</PageTitle>
 
       <SurveyQuestion>
         <div>
-          {isDataLoading ? (
+          {isLoading ? (
             <Loader />
           ) : (
-            <PageSubTitle>{surveyData[questionNumber]}</PageSubTitle>
+            <PageSubTitle theme={theme}>
+              {surveyData[questionNumber]}
+            </PageSubTitle>
           )}
-          <button type="button" class="survey--btn">
+          <button
+            type="button"
+            class="survey--btn"
+            onClick={() => saveReply(true)}
+            isSelected={answers[questionNumber] === true}
+            theme={theme}
+          >
             Oui
           </button>
-          <button type="button" class="survey--btn">
+          <button
+            type="button"
+            class="survey--btn"
+            onClick={() => saveReply(false)}
+            isSelected={answers[questionNumber] === false}
+            theme={theme}
+          >
             Non
           </button>
         </div>
