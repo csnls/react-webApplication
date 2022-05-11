@@ -13,7 +13,7 @@ const rotate = keyframes`
 
 export const Loader = styled.div`
   padding: 10px;
-  border: 6px solid ${colors.primary};
+  border: 6px solid ${colors.db};
   border-bottom-color: transparent;
   border-radius: 22px;
   animation: ${rotate} 1s infinite linear;
@@ -23,8 +23,8 @@ export const Loader = styled.div`
 `
 
 export const StyledLink = styled(Link)`
-  padding: 10px 15px;
-  color: #8186a0;
+  padding: 15px;
+  color: ${({ $theme }) => ($theme === 'light' ? '#8186a0' : '#ffffff')};
   text-decoration: none;
   font-size: 18px;
   text-align: center;
@@ -32,5 +32,5 @@ export const StyledLink = styled(Link)`
     props.$isFullLink &&
     `color: white; 
     border-radius: 30px; 
-    background-color: ${colors.primary};`}
+    background-color: ${colors.db};`}
 `

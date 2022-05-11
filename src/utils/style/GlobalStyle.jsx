@@ -8,9 +8,7 @@ const StyledGlobalStyle = createGlobalStyle`
     }
     body {
         ${({ isDarkMode }) =>
-          isDarkMode
-            ? 'background-color:#2F2E41; color:white'
-            : 'background-color:white'};
+          isDarkMode ? 'background-color:#2F2E41' : 'background-color:white'};
         margin: 0;
     }
 `

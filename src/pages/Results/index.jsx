@@ -4,40 +4,41 @@ import colors from '../../utils/style/colors.js'
 import { useContext } from 'react'
 import { SurveyContext } from '../../utils/context'
 
-import { Loader } from '../../utils/style/atoms.jsx'
-import { useFetch } from '../../utils/hooks'
+import { Loader, StyledLink } from '../../utils/style/atoms.jsx'
+import { useFetch, useTheme } from '../../utils/hooks'
 
 import { useState } from 'react'
 
-var ResultsTitle = styled.div`
-  margin: auto;
-`
-var JobTitle = styled.h2`
-  font-size: 20px;
-  color: white;
-  border-radius: 30px;
-  background-color: ${colors.db};
-  max-width: 200px;
-  margin: 15px auto;
-  padding: 15px;
-`
-
 var PageTitle = styled.h1`
-  color: ${colors.db};
   font-size: 30px;
   text-align: center;
   padding-bottom: 30px;
   font-weight: 600;
+  color: ${({ theme }) => (theme === 'dark' ? 'white' : `${colors.db}`)};
+`
+var ResultsContent = styled.div`
+  text-align: center;
 `
 var PageSubTitle = styled.h2`
-  color: ${colors.db};
   font-size: 20px;
   text-align: center;
   padding-bottom: 30px;
   font-weight: 300;
+  color: ${({ theme }) => (theme === 'dark' ? 'white' : `${colors.db}`)};
 `
-var ResultsContent = styled.div`
-  text-align: center;
+var ResultsTitle = styled.div`
+  margin: auto;
+`
+var JobContainer = styled.div`
+  border-radius: 30px;
+  background-color: ${colors.db};
+  width: 250px;
+  margin: 15px;
+  padding: 15px;
+  display: inline-block;
+  height: 250px;
+  vertical-align: bottom;
+  color: white;
 `
 
 function formatQueryParams(answers) {
@@ -50,13 +51,13 @@ function formatQueryParams(answers) {
 }
 
 function Results() {
+  var { theme } = useTheme()
+
   var { answers } = useContext(SurveyContext)
   var queryParams = formatQueryParams(answers)
   var { data, isLoading, error } = useFetch(
     `http://localhost:8000/results?${queryParams}`
   )
-  console.log(answers)
-  console.log(data)
 
   if (error) {
     return <span>Oups il y a eu un problème</span>
@@ -67,25 +68,35 @@ function Results() {
 
   function ListItem({ result }) {
     var [toggle, setToggle] = useState(true)
-    var ShowTitle = () => result.title
-    var ShowDescription = () => result.description
+    var JobTitle = styled.h2`
+      position: relative;
+      top: 50%;
+      margin-top: -20px;
+    `
+    var JobDescription = styled.h2`
+      font-size: 20px;
+    `
     return (
-      <span
+      <JobContainer
         onClick={() => {
           setToggle(!toggle)
         }}
       >
-        {toggle ? <ShowTitle /> : <ShowDescription />}
-      </span>
+        {toggle ? (
+          <JobTitle>{result.title}</JobTitle>
+        ) : (
+          <JobDescription>{result.description}</JobDescription>
+        )}
+      </JobContainer>
     )
   }
 
   return (
     <div>
-      <PageTitle>Résultats</PageTitle>
+      <PageTitle theme={theme}>Résultats</PageTitle>
 
       <ResultsContent>
-        <PageSubTitle>
+        <PageSubTitle theme={theme}>
           Voici les compétences dont vous avez besoin :
         </PageSubTitle>
 
@@ -95,14 +106,13 @@ function Results() {
           <div>
             <ResultsTitle>
               {resultsData &&
-                resultsData.map((result) => (
-                  <JobTitle>
-                    <ListItem result={result} />
-                  </JobTitle>
-                ))}
+                resultsData.map((result) => <ListItem result={result} />)}
             </ResultsTitle>
           </div>
         )}
+        <StyledLink $isFullLink to="/freelances/result">
+          Découvrez nos profils
+        </StyledLink>
       </ResultsContent>
     </div>
   )

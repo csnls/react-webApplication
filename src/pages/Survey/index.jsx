@@ -8,28 +8,39 @@ import { useContext } from 'react'
 import { SurveyContext } from '../../utils/context'
 import { useFetch, useTheme } from '../../utils/hooks'
 
+import { Form } from 'react-bootstrap'
+
+import React, { useState } from 'react'
+
 var PageTitle = styled.h1`
-  color: ${colors.db};
   font-size: 30px;
   text-align: center;
   padding-bottom: 30px;
   font-weight: 600;
+  color: ${({ theme }) => (theme === 'dark' ? 'white' : `${colors.db}`)};
 `
 var PageSubTitle = styled.h2`
-  color: ${colors.db};
   font-size: 20px;
   text-align: center;
   padding-bottom: 30px;
   font-weight: 300;
+  color: ${({ theme }) => (theme === 'dark' ? 'white' : `${colors.db}`)};
 `
 var SurveyQuestion = styled.div`
   text-align: center;
+  min-height: 140px;
+`
+var SurveyPrevNext = styled.div`
+  text-align: center;
+  margin: auto;
+  max-width: 50%;
 `
 var StyledLink = styled(Link)`
   padding: 15px;
   color: #8186a0;
   text-decoration: none;
   font-size: 18px;
+  width: 150px;
   ${(props) =>
     props.$isFullLink &&
     `color: white; border-radius: 30px; background-color: ${colors.db};`}
@@ -54,8 +65,18 @@ function Survey() {
   }
 
   var { data, isLoading, error } = useFetch('http://localhost:8000/survey')
-  var { surveyData } = data
-  // autre écriture : var surveyData = data?.surveyData
+  var { surveyData } = data // autre écriture : var surveyData = data?.surveyData
+
+  // radio button unchecked onclick on button 'suivant'
+
+  const [checked, setChecked] = useState({ oui: false, non: false })
+  const changeRadio = (e) => {
+    setChecked(() => {
+      return {
+        [e.target.value]: true,
+      }
+    })
+  }
 
   if (error) {
     return <span>Oups il y a eu un problème</span>
@@ -70,44 +91,76 @@ function Survey() {
           {isLoading ? (
             <Loader />
           ) : (
-            <PageSubTitle theme={theme}>
-              {surveyData[questionNumber]}
-            </PageSubTitle>
+            <div>
+              <PageSubTitle theme={theme}>
+                {surveyData[questionNumber]}
+              </PageSubTitle>
+              <Form>
+                {['radio'].map((type) => (
+                  <div key={`${type}`}>
+                    <Form.Check
+                      label="Oui"
+                      name="group1"
+                      type={type}
+                      id={`${type}-1`}
+                      onClick={() => saveReply(true)}
+                      isSelected={answers[questionNumber] === true}
+                      theme={theme}
+                      checked={checked.oui}
+                      onChange={changeRadio}
+                    />
+                    <Form.Check
+                      label="Non"
+                      name="group1"
+                      type={type}
+                      id={`${type}-2`}
+                      onClick={() => saveReply(false)}
+                      isSelected={answers[questionNumber] === false}
+                      theme={theme}
+                      checked={checked.non}
+                      onChange={changeRadio}
+                    />
+                  </div>
+                ))}
+              </Form>
+            </div>
           )}
-          <button
-            type="button"
-            class="survey--btn"
-            onClick={() => saveReply(true)}
-            isSelected={answers[questionNumber] === true}
-            theme={theme}
-          >
-            Oui
-          </button>
-          <button
-            type="button"
-            class="survey--btn"
-            onClick={() => saveReply(false)}
-            isSelected={answers[questionNumber] === false}
-            theme={theme}
-          >
-            Non
-          </button>
         </div>
 
         {/* Pas de prev en quest 1, pas de next en quest 10 */}
-
+      </SurveyQuestion>
+      <SurveyPrevNext>
         {parseInt(questionNumber) === 1 ? (
-          <StyledLink to={`/survey/${questionNumberPrev}`}></StyledLink>
+          <StyledLink
+            $isFullLink
+            to={`/survey/${questionNumberPrev}`}
+            style={{ display: 'none' }}
+          ></StyledLink>
         ) : (
-          <StyledLink to={`/survey/${questionNumberPrev}`}>Prev</StyledLink>
+          <StyledLink
+            $isFullLink
+            to={`/survey/${questionNumberPrev}`}
+            style={{ float: 'left' }}
+          >
+            Précédent
+          </StyledLink>
         )}
 
         {parseInt(questionNumber) === 6 ? (
-          <StyledLink to={`/results`}>Résultats</StyledLink>
+          <StyledLink $isFullLink to={`/results`} style={{ float: 'right' }}>
+            Résultats
+          </StyledLink>
         ) : (
-          <StyledLink to={`/survey/${questionNumberNext}`}>Next</StyledLink>
+          <StyledLink
+            $isFullLink
+            to={`/survey/${questionNumberNext}`}
+            style={{ float: 'right' }}
+            onClick={() => setChecked(() => ({ oui: false, non: false }))}
+          >
+            Suivant
+          </StyledLink>
         )}
-      </SurveyQuestion>
+      </SurveyPrevNext>
     </div>
   )
 }

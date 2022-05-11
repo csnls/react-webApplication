@@ -11,14 +11,14 @@ var HomeContainer = styled.div`
   padding: 10%;
   border-radius: 30px;
 `
-var Balloon = styled.div`
+/* var Balloon = styled.div`
   background-color: ${colors.db};
   width: 30px;
   height: 30px;
   border-radius: 30%;
   transform: scale(${({ size }) => size});
   margin: auto;
-`
+` */
 var StyledLink = styled(Link)`
   padding: 15px;
   font-size: 18px;
@@ -50,7 +50,7 @@ function Home() {
             <StyledLink to={`/survey/1`}>Faire le test</StyledLink>
           </Col>
           <Col className="columns" sm={6}>
-            <Balloon size={size} />
+            {/*             <Balloon size={size} /> */}
             <StyledImg
               src={Freelance}
               alt="Shiny-Agency"
