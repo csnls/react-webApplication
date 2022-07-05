@@ -1,0 +1,2927 @@
+{
+  "climbers": [
+    {
+      "name": "Dorje",
+      "date": "1922-06-07",
+      "age": "unknown",
+      "expedition": "1922 British Mount Everest Expedition",
+      "nationality": "Nepal",
+      "causeOfDeath": "Avalanche",
+      "generalLocation": "North Col",
+      "specificLocation": "Below North Col"
+    },
+    {
+      "name": "Lhakpa",
+      "date": "1922-06-07",
+      "age": "unknown",
+      "expedition": "1922 British Mount Everest Expedition",
+      "nationality": "Nepal",
+      "causeOfDeath": "Avalanche",
+      "generalLocation": "North Col",
+      "specificLocation": "Below North Col"
+    },
+    {
+      "name": "Norbu",
+      "date": "1922-06-07",
+      "age": "unknown",
+      "expedition": "1922 British Mount Everest Expedition",
+      "nationality": "Nepal",
+      "causeOfDeath": "Avalanche",
+      "generalLocation": "North Col",
+      "specificLocation": "Below North Col"
+    },
+    {
+      "name": "Pasang",
+      "date": "1922-06-07",
+      "age": "unknown",
+      "expedition": "1922 British Mount Everest Expedition",
+      "nationality": "Nepal",
+      "causeOfDeath": "Avalanche",
+      "generalLocation": "North Col",
+      "specificLocation": "Below North Col"
+    },
+    {
+      "name": "Pema",
+      "date": "1922-06-07",
+      "age": "unknown",
+      "expedition": "1922 British Mount Everest Expedition",
+      "nationality": "Nepal",
+      "causeOfDeath": "Avalanche",
+      "generalLocation": "North Col",
+      "specificLocation": "Below North Col"
+    },
+    {
+      "name": "Sange",
+      "date": "1922-06-07",
+      "age": "unknown",
+      "expedition": "1922 British Mount Everest Expedition",
+      "nationality": "Nepal",
+      "causeOfDeath": "Avalanche",
+      "generalLocation": "North Col",
+      "specificLocation": "Below North Col"
+    },
+    {
+      "name": "Temba",
+      "date": "1922-06-07",
+      "age": "unknown",
+      "expedition": "1922 British Mount Everest Expedition",
+      "nationality": "Nepal",
+      "causeOfDeath": "Avalanche",
+      "generalLocation": "North Col",
+      "specificLocation": "Below North Col"
+    },
+    {
+      "name": "Man Bahadur",
+      "date": "1924-05-13",
+      "age": "unknown",
+      "expedition": "1924 British Mount Everest Expedition",
+      "nationality": "Nepal",
+      "causeOfDeath": "Pneumonia",
+      "generalLocation": "Rongbuk B.C.",
+      "specificLocation": "Above Rongbuk B.C."
+    },
+    {
+      "name": "Lance-Naik Shamsherpun",
+      "date": "1924-05-17",
+      "age": "unknown",
+      "expedition": "1924 British Mount Everest Expedition",
+      "nationality": "Nepal",
+      "causeOfDeath": "Brain hemorrhage",
+      "generalLocation": "Rongbuk B.C.",
+      "specificLocation": "Above Rongbuk B.C."
+    },
+    {
+      "name": "Andrew Irvine",
+      "date": "1924-06-09",
+      "age": 22,
+      "expedition": "1924 British Mount Everest Expedition",
+      "nationality": "United Kingdom",
+      "causeOfDeath": "Disappeared; body never found; cause of death unknown",
+      "generalLocation": "N.E. Ridge"
+    },
+    {
+      "name": "George Mallory",
+      "date": "1924-06-09",
+      "age": 37,
+      "expedition": "1924 British Mount Everest Expedition",
+      "nationality": "United Kingdom",
+      "causeOfDeath": "Disappeared; body found in 1999; evidence suggests Mallory died from being accidentally struck by his ice axe following a fall.",
+      "generalLocation": "N.E. Ridge"
+    },
+    {
+      "name": "Maurice Wilson",
+      "date": "1934-05-31",
+      "age": 36,
+      "expedition": "Solo Expedition",
+      "nationality": "United Kingdom",
+      "causeOfDeath": "Body found 1935; cause of death possibly exhaustion, exposure or starvation.",
+      "generalLocation": "East Rongbuk glacier"
+    },
+    {
+      "name": "Dorje Mingma",
+      "date": "1952-10-31",
+      "age": "unknown",
+      "expedition": "Swiss Expedition",
+      "nationality": "Nepal",
+      "causeOfDeath": "Falling ice",
+      "generalLocation": "Lhotse Face"
+    },
+    {
+      "name": "Wang Ji",
+      "date": "1960-04-11",
+      "age": "unknown",
+      "expedition": "Chinese Expedition Northern Slope",
+      "nationality": "China",
+      "causeOfDeath": "Mountain sickness",
+      "generalLocation": "unknown"
+    },
+    {
+      "name": "Shao Shi-Ching",
+      "date": "1960-04-29",
+      "age": "unknown",
+      "expedition": "Chinese Expedition Northern Slope",
+      "nationality": "China",
+      "causeOfDeath": "unknown",
+      "generalLocation": "N.E. Ridge"
+    },
+    {
+      "name": "Nawang Tshering",
+      "date": "1962-04-28",
+      "age": "unknown",
+      "expedition": "Chinese Expedition Northern Slope",
+      "nationality": "Nepal",
+      "causeOfDeath": "unknown",
+      "generalLocation": "Lhotse face"
+    },
+    {
+      "name": "Jake Breitenbach",
+      "date": "1963-03-23",
+      "age": 27,
+      "expedition": "Norman Dyhrenfurth's American Mount Everest Expedition",
+      "nationality": "United States",
+      "causeOfDeath": "Crushed under serac",
+      "generalLocation": "Icefall"
+    },
+    {
+      "name": "Ma Gao-shu",
+      "date": "1966-05-01",
+      "age": "unknown",
+      "expedition": "Chinese Everest Expedition",
+      "nationality": "China",
+      "causeOfDeath": "Fall",
+      "generalLocation": "Icefall"
+    },
+    {
+      "name": "Phu Dorje",
+      "date": "1969-10-18",
+      "age": "unknown",
+      "expedition": "Japanese Everest Expedition",
+      "nationality": "Nepal",
+      "causeOfDeath": "Fall into a crevice",
+      "generalLocation": "Icefall"
+    },
+    {
+      "name": "Nima Dorje",
+      "date": "1970-04-05",
+      "age": "unknown",
+      "expedition": "Japanese Skiing Expedition",
+      "nationality": "Nepal",
+      "causeOfDeath": "Avalanche",
+      "generalLocation": "Icefall"
+    },
+    {
+      "name": "Kunga Norbu",
+      "date": "1970-04-05",
+      "age": "unknown",
+      "expedition": "Japanese Skiing Expedition",
+      "nationality": "Nepal",
+      "causeOfDeath": "Avalanche",
+      "generalLocation": "unknown"
+    },
+    {
+      "name": "Mima Norbu",
+      "date": "1970-04-05",
+      "age": "unknown",
+      "expedition": "Japanese Skiing Expedition",
+      "nationality": "Nepal",
+      "causeOfDeath": "Avalanche",
+      "generalLocation": "Icefall"
+    },
+    {
+      "name": "Pasang",
+      "date": "1970-04-05",
+      "age": "unknown",
+      "expedition": "Japanese Skiing Expedition",
+      "nationality": "Nepal",
+      "causeOfDeath": "Avalanche",
+      "generalLocation": "Icefall"
+    },
+    {
+      "name": "Kami Tshering",
+      "date": "1970-04-05",
+      "age": "unknown",
+      "expedition": "Japanese Skiing Expedition",
+      "nationality": "Nepal",
+      "causeOfDeath": "Avalanche",
+      "generalLocation": "Icefall"
+    },
+    {
+      "name": "Kyak Tshering",
+      "date": "1970-04-05",
+      "age": "unknown",
+      "expedition": "Japanese Skiing Expedition",
+      "nationality": "Nepal",
+      "causeOfDeath": "Avalanche",
+      "generalLocation": "Icefall"
+    },
+    {
+      "name": "Kyak Tshering",
+      "date": "1970-04-09",
+      "age": 36,
+      "expedition": "Japanese Skiing Expedition",
+      "nationality": "Nepal",
+      "causeOfDeath": "Avalanche",
+      "generalLocation": "unknown",
+      "elevation": 5525
+    },
+    {
+      "name": "Kiyoshi Narita",
+      "date": "1970-04-21",
+      "age": "unknown",
+      "expedition": "Japanese Skiing Expedition",
+      "nationality": "Japan",
+      "causeOfDeath": "Heart attack",
+      "generalLocation": "unknown",
+      "elevation": 6150
+    },
+    {
+      "name": "Harsh Vardhan",
+      "date": "1971-04-18",
+      "age": "unknown",
+      "expedition": "International Expedition of 1971",
+      "nationality": "India",
+      "causeOfDeath": "Succumbed after falling and being suspended above a crevice during a blizzard",
+      "generalLocation": "unknown",
+      "elevation": 6900
+    },
+    {
+      "name": "Tony Tighe",
+      "date": "1972-11-16",
+      "age": "unknown",
+      "expedition": "Mt. Qomolangma expedition",
+      "nationality": "Australia",
+      "causeOfDeath": "Crushed under serac",
+      "generalLocation": "Icefall"
+    },
+    {
+      "name": "Jangbu",
+      "date": "1973-10-12",
+      "age": "unknown",
+      "expedition": "unknown",
+      "nationality": "Nepal",
+      "causeOfDeath": "Avalanche",
+      "generalLocation": "S.W. Face"
+    },
+    {
+      "name": "Gérard Devouassoux",
+      "date": "1974-09-09",
+      "age": "unknown",
+      "expedition": "French West Ridge Direct expedition",
+      "nationality": "France",
+      "causeOfDeath": "Avalanche",
+      "generalLocation": "unknown",
+      "elevation": 6400
+    },
+    {
+      "name": "Pemba Dorje",
+      "date": "1974-09-09",
+      "age": "unknown",
+      "expedition": "French West Ridge Direct expedition",
+      "nationality": "Nepal",
+      "causeOfDeath": "Avalanche",
+      "generalLocation": "unknown",
+      "elevation": 6400
+    },
+    {
+      "name": "Lhakpa",
+      "date": "1974-09-09",
+      "age": "unknown",
+      "expedition": "French West Ridge Direct expedition",
+      "nationality": "Nepal",
+      "causeOfDeath": "Avalanche",
+      "generalLocation": "unknown",
+      "elevation": 6400
+    },
+    {
+      "name": "Nawang Lutuk",
+      "date": "1974-09-09",
+      "age": "unknown",
+      "expedition": "French West Ridge Direct expedition",
+      "nationality": "Nepal",
+      "causeOfDeath": "Avalanche",
+      "generalLocation": "unknown",
+      "elevation": 6400
+    },
+    {
+      "name": "Nima Wangchu",
+      "date": "1974-09-09",
+      "age": "unknown",
+      "expedition": "French West Ridge Direct expedition",
+      "nationality": "Nepal",
+      "causeOfDeath": "Avalanche",
+      "generalLocation": "unknown",
+      "elevation": 6400
+    },
+    {
+      "name": "Sanu Wongal",
+      "date": "1974-09-09",
+      "age": "unknown",
+      "expedition": "French West Ridge Direct expedition",
+      "nationality": "Nepal",
+      "causeOfDeath": "Avalanche",
+      "generalLocation": "unknown",
+      "elevation": 6400
+    },
+    {
+      "name": "Wu Zhuong Yue",
+      "date": "1975-05-04",
+      "age": "unknown",
+      "expedition": "unknown",
+      "nationality": "China",
+      "causeOfDeath": "Exhaustion, fall",
+      "generalLocation": "unknown",
+      "elevation": 8500
+    },
+    {
+      "name": "Mick Burke",
+      "date": "1975-09-26",
+      "age": 34,
+      "expedition": "Bonington's 1975 Everest expedition",
+      "nationality": "United Kingdom",
+      "causeOfDeath": "Disappearance (likely accidental death during climb)",
+      "generalLocation": "Near Summit"
+    },
+    {
+      "name": "Terry Thompson",
+      "date": "1976-04-10",
+      "age": "unknown",
+      "expedition": "British-Nepal Army Everest Expedition",
+      "nationality": "United Kingdom",
+      "causeOfDeath": "Fall into a crevasse",
+      "generalLocation": "Camp 2"
+    },
+    {
+      "name": "Dawa Nuru",
+      "date": "1978-04-18",
+      "age": "unknown",
+      "expedition": "unknown",
+      "nationality": "Nepal",
+      "causeOfDeath": "Fall into a crevasse",
+      "generalLocation": "Icefall"
+    },
+    {
+      "name": "Shi Ming-ji",
+      "date": "1978-04-18",
+      "age": "unknown",
+      "expedition": "Chinese Iranian Expedition",
+      "nationality": "China",
+      "causeOfDeath": "Fall into a crevasse",
+      "generalLocation": "Icefall"
+    },
+    {
+      "name": "Ang Phu",
+      "date": "1979-05-16",
+      "age": "unknown",
+      "expedition": "Yugoslavian Expedition",
+      "nationality": "Nepal",
+      "causeOfDeath": "Fall",
+      "generalLocation": "Icefall"
+    },
+    {
+      "name": "Ray Genet",
+      "date": "1979-10-02",
+      "age": 48,
+      "expedition": "Gerhard Schmatz German Expedition",
+      "nationality": "United States",
+      "causeOfDeath": "Exposure, exhaustion",
+      "generalLocation": "S.E. Ridge",
+      "elevation": 8400
+    },
+    {
+      "name": "Hannelore Schmatz",
+      "date": "1979-10-02",
+      "age": 39,
+      "expedition": "Gerhard Schmatz German Expedition",
+      "nationality": "Germany",
+      "causeOfDeath": "Exposure, exhaustion",
+      "generalLocation": "S.E. Ridge",
+      "elevation": 8400
+    },
+    {
+      "name": "Wang Hong-bao",
+      "date": "1979-10-12",
+      "age": "unknown",
+      "expedition": "Japanese Alpine Club reconnaissance expedition",
+      "nationality": "China",
+      "causeOfDeath": "Avalanche",
+      "generalLocation": "North Col",
+      "specificLocation": "Below North Col"
+    },
+    {
+      "name": "Lou Lan",
+      "date": "1979-10-12",
+      "age": "unknown",
+      "expedition": "Japanese Alpine Club reconnaissance expedition",
+      "nationality": "China",
+      "causeOfDeath": "Avalanche",
+      "generalLocation": "North Col",
+      "specificLocation": "Below North Col"
+    },
+    {
+      "name": "Nima Thaxi",
+      "date": "1979-10-12",
+      "age": "unknown",
+      "expedition": "Japanese Alpine Club reconnaissance expedition",
+      "nationality": "China",
+      "causeOfDeath": "Avalanche",
+      "generalLocation": "North Col",
+      "specificLocation": "Below North Col"
+    },
+    {
+      "name": "Akira Ube",
+      "date": "1980-05-02",
+      "age": 31,
+      "expedition": "Japanese Alpine Society Expedition",
+      "nationality": "Japan",
+      "causeOfDeath": "Avalanche",
+      "generalLocation": "North Face",
+      "specificLocation": "Hornbein Couloir",
+      "elevation": 7900
+    },
+    {
+      "name": "Nawang Kersang",
+      "date": "1980-09-06",
+      "age": "unknown",
+      "expedition": "Italian Expedition",
+      "nationality": "Nepal",
+      "causeOfDeath": "Fall",
+      "generalLocation": "Icefall"
+    },
+    {
+      "name": "Mario Piana",
+      "date": "1980-09-22",
+      "age": "unknown",
+      "expedition": "Italian Expedition",
+      "nationality": "Italy",
+      "causeOfDeath": "Crushed under serac",
+      "generalLocation": "Lhotse Face"
+    },
+    {
+      "name": "Noboru Takenaka",
+      "date": "1981-01-12",
+      "age": 28,
+      "expedition": "Japanese Winter Expedition",
+      "nationality": "Japan",
+      "causeOfDeath": "Fall",
+      "generalLocation": "W. Cwm",
+      "elevation": 6900
+    },
+    {
+      "name": "Marty Hoey",
+      "date": "1982-05-15",
+      "age": 30,
+      "expedition": "Whittaker American Expedition",
+      "nationality": "United States",
+      "causeOfDeath": "Fall",
+      "generalLocation": "unknown",
+      "elevation": 8000
+    },
+    {
+      "name": "Peter Boardman",
+      "date": "1982-05-17",
+      "age": 31,
+      "expedition": "British Mount Everest Expedition",
+      "nationality": "United Kingdom",
+      "causeOfDeath": "cause of death unknown",
+      "generalLocation": "N.E. Ridge",
+      "elevation": 8200
+    },
+    {
+      "name": "Joe Tasker",
+      "date": "1982-05-17",
+      "age": 33,
+      "expedition": "British Mount Everest Expedition",
+      "nationality": "United Kingdom",
+      "causeOfDeath": "Disappearance (likely accidental death during climb)",
+      "generalLocation": "N.E. Ridge",
+      "elevation": 8200
+    },
+    {
+      "name": "Ang Chuldim",
+      "date": "1982-08-31",
+      "age": 20,
+      "expedition": "Bill March Canadian Expedition",
+      "nationality": "Nepal",
+      "causeOfDeath": "Avalanche",
+      "generalLocation": "Icefall"
+    },
+    {
+      "name": "Dawa Dorje",
+      "date": "1982-08-31",
+      "age": 42,
+      "expedition": "Bill March Canadian Expedition",
+      "nationality": "Nepal",
+      "causeOfDeath": "Avalanche",
+      "generalLocation": "Icefall"
+    },
+    {
+      "name": "Pasang Sona",
+      "date": "1982-08-31",
+      "age": 38,
+      "expedition": "Bill March Canadian Expedition",
+      "nationality": "Nepal",
+      "causeOfDeath": "Avalanche",
+      "generalLocation": "Icefall"
+    },
+    {
+      "name": "Blair Griffiths",
+      "date": "1982-09-02",
+      "age": 33,
+      "expedition": "Bill March Canadian Expedition",
+      "nationality": "Canada",
+      "causeOfDeath": "Crushed under serac",
+      "generalLocation": "Icefall"
+    },
+    {
+      "name": "Lhakpa Tshering",
+      "date": "1982-09-27",
+      "age": "unknown",
+      "expedition": "Spanish Expedition",
+      "nationality": "Nepal",
+      "causeOfDeath": "Internal hemorrhage",
+      "generalLocation": "unknown",
+      "elevation": 6770
+    },
+    {
+      "name": "Nima Dorje",
+      "date": "1982-10-14",
+      "age": "unknown",
+      "expedition": "Spanish Expedition",
+      "nationality": "Nepal",
+      "causeOfDeath": "Fall",
+      "generalLocation": "West Ridge",
+      "elevation": 8300
+    },
+    {
+      "name": "Yasuo Kato",
+      "date": "1982-12-28",
+      "age": 33,
+      "expedition": "Japanese Expedition",
+      "nationality": "Japan",
+      "causeOfDeath": "Disappearance (likely accidental death during climb)",
+      "generalLocation": "Near Summit"
+    },
+    {
+      "name": "Toshiaki Kobayashi",
+      "date": "1982-12-28",
+      "age": "unknown",
+      "expedition": "Japanese Expedition",
+      "nationality": "Japan",
+      "causeOfDeath": "Disappearance (likely accidental death during climb)",
+      "generalLocation": "Near Summit"
+    },
+    {
+      "name": "Hironobu Kamuro",
+      "date": "1983-10-08",
+      "age": "unknown",
+      "expedition": "Japanese Expedition",
+      "nationality": "Japan",
+      "causeOfDeath": "Fall",
+      "generalLocation": "Near Summit"
+    },
+    {
+      "name": "Pasang Temba",
+      "date": "1983-10-08",
+      "age": "unknown",
+      "expedition": "Japanese Expedition",
+      "nationality": "Nepal",
+      "causeOfDeath": "Fall",
+      "generalLocation": "S.E. Ridge",
+      "elevation": 8600
+    },
+    {
+      "name": "Hiroshi Yoshino",
+      "date": "1983-10-09",
+      "age": "unknown",
+      "expedition": "Japanese Expedition",
+      "nationality": "Japan",
+      "causeOfDeath": "Fall",
+      "generalLocation": "Near Summit"
+    },
+    {
+      "name": "Ang Rinji",
+      "date": "1984-03-26",
+      "age": "unknown",
+      "expedition": "Indian Expedition",
+      "nationality": "Nepal",
+      "causeOfDeath": "Avalanche",
+      "generalLocation": "Icefall"
+    },
+    {
+      "name": "Tony Swierzy",
+      "date": "1984-04-03",
+      "age": 27,
+      "expedition": "Micheal Lane British North Face Expedition",
+      "nationality": "United Kingdom",
+      "causeOfDeath": "Avalanche",
+      "generalLocation": "unknown",
+      "elevation": 6238
+    },
+    {
+      "name": "Hristo Ivanov Prodanov",
+      "date": "1984-04-21",
+      "age": 40,
+      "expedition": "Bulgarian West Face Expedition",
+      "nationality": "Bulgaria",
+      "causeOfDeath": "Disappearance (likely accidental death during climb)",
+      "generalLocation": "West Ridge",
+      "elevation": 8500
+    },
+    {
+      "name": "Fred From",
+      "date": "1984-10-09",
+      "age": 28,
+      "expedition": "Australian-New Zealand Expedition",
+      "nationality": "Australia",
+      "causeOfDeath": "Fall",
+      "generalLocation": "unknown",
+      "elevation": 8000
+    },
+    {
+      "name": "Craig Nottle",
+      "date": "1984-10-09",
+      "age": 23,
+      "expedition": "Australian-New Zealand Expedition",
+      "nationality": "Australia",
+      "causeOfDeath": "Fall",
+      "generalLocation": "unknown",
+      "elevation": 8000
+    },
+    {
+      "name": "Jozef Psotka",
+      "date": "1984-10-16",
+      "age": 50,
+      "expedition": "Australian-New Zealand Expedition",
+      "nationality": "Czechoslovakia",
+      "causeOfDeath": "Fall",
+      "generalLocation": "Near Summit"
+    },
+    {
+      "name": "Ang Dorje",
+      "date": "1984-10-24",
+      "age": 35,
+      "expedition": "Mission to recover body of Hannelore Schmatz",
+      "nationality": "Nepal",
+      "causeOfDeath": "Fall",
+      "generalLocation": "S.E. Ridge",
+      "elevation": 8400
+    },
+    {
+      "name": "Yogendra Bahadur Thapa",
+      "date": "1984-10-24",
+      "age": 36,
+      "expedition": "Mission to recover body of Hannelore Schmatz",
+      "nationality": "Nepal",
+      "causeOfDeath": "Fall",
+      "generalLocation": "S.E. Ridge",
+      "elevation": 8400
+    },
+    {
+      "name": "Juanjo Navarro",
+      "date": "1985-05-12",
+      "age": "unknown",
+      "expedition": "Basque Expedition",
+      "nationality": "Spain",
+      "causeOfDeath": "Fall",
+      "generalLocation": "unknown",
+      "elevation": 7300
+    },
+    {
+      "name": "Shinichi Ishii",
+      "date": "1985-09-17",
+      "age": "unknown",
+      "expedition": "Japanese Expedition",
+      "nationality": "Japan",
+      "causeOfDeath": "Avalanche",
+      "generalLocation": "unknown"
+    },
+    {
+      "name": "Kiran Inder Kumar",
+      "date": "1985-10-07",
+      "age": 40,
+      "expedition": "Indian Expedition",
+      "nationality": "India",
+      "causeOfDeath": "Fall",
+      "generalLocation": "unknown",
+      "elevation": 7986
+    },
+    {
+      "name": "Jai Bahugana",
+      "date": "1985-10-11",
+      "age": "unknown",
+      "expedition": "Indian Expedition",
+      "nationality": "India",
+      "causeOfDeath": "Exposure",
+      "generalLocation": "South Col"
+    },
+    {
+      "name": "Ranjeet Singh Bakshi",
+      "date": "1985-10-11",
+      "age": "unknown",
+      "expedition": "Indian Expedition",
+      "nationality": "India",
+      "causeOfDeath": "Exposure",
+      "generalLocation": "South Col"
+    },
+    {
+      "name": "Vijay Pal Singh Negi",
+      "date": "1985-10-11",
+      "age": 28,
+      "expedition": "Indian Expedition",
+      "nationality": "India",
+      "causeOfDeath": "Exposure",
+      "generalLocation": "South Col"
+    },
+    {
+      "name": "M.U. Bhaskar Rao",
+      "date": "1985-10-11",
+      "age": "unknown",
+      "expedition": "Indian Expedition",
+      "nationality": "India",
+      "causeOfDeath": "Exposure",
+      "generalLocation": "South Col"
+    },
+    {
+      "name": "Ví­ctor Hugo Trujillo",
+      "date": "1986-08-16",
+      "age": 22,
+      "expedition": "unknown",
+      "nationality": "Chile",
+      "causeOfDeath": "Avalanche",
+      "generalLocation": "North Col",
+      "specificLocation": "Below North Col"
+    },
+    {
+      "name": "Simon Burkhardt",
+      "date": "1986-09-28",
+      "age": 52,
+      "expedition": "Eiselin Sports Expedition",
+      "nationality": "Switzerland",
+      "causeOfDeath": "Avalanche",
+      "generalLocation": "unknown",
+      "elevation": 7315
+    },
+    {
+      "name": "Gyalu",
+      "date": "1986-10-04",
+      "age": "unknown",
+      "expedition": "Eiselin Sports Expedition",
+      "nationality": "Nepal",
+      "causeOfDeath": "Crushed under serac",
+      "generalLocation": "Icefall"
+    },
+    {
+      "name": "Dawa Norbu",
+      "date": "1986-10-17",
+      "age": "unknown",
+      "expedition": "Eiselin Sports Expedition",
+      "nationality": "Nepal",
+      "causeOfDeath": "Avalanche",
+      "generalLocation": "North Col",
+      "specificLocation": "Below North Col"
+    },
+    {
+      "name": "Tsuttin Dorje",
+      "date": "1987-01-30",
+      "age": "unknown",
+      "expedition": "unknown",
+      "nationality": "Nepal",
+      "causeOfDeath": "Fall",
+      "generalLocation": "unknown",
+      "elevation": 7700
+    },
+    {
+      "name": "Roger Marshall",
+      "date": "1987-05-21",
+      "age": 45,
+      "expedition": "unknown",
+      "nationality": "Canada",
+      "causeOfDeath": "unknown",
+      "generalLocation": "Near Summit",
+      "specificLocation": "Hornbein Couloir"
+    },
+    {
+      "name": "Masao Yokoyama",
+      "date": "1987-09-02",
+      "age": 44,
+      "expedition": "Japanese Expedition",
+      "nationality": "Japan",
+      "causeOfDeath": "Drowned",
+      "generalLocation": "East Rongbuk glacier"
+    },
+    {
+      "name": "Mangal Singh",
+      "date": "1987-10-20",
+      "age": "unknown",
+      "expedition": "British Expedition",
+      "nationality": "Nepal",
+      "causeOfDeath": "Avalanche",
+      "generalLocation": "Base camp"
+    },
+    {
+      "name": "Hidetaka Mizukoshi",
+      "date": "1988-04-21",
+      "age": "unknown",
+      "expedition": "35th Anniversary climb with Chinese, Japanese and Nepalese nationals",
+      "nationality": "Japan",
+      "causeOfDeath": "Heart attack (at Base camp)",
+      "generalLocation": "Base camp"
+    },
+    {
+      "name": "Michel Parmentier",
+      "date": "1988-09-20",
+      "age": "unknown",
+      "expedition": "International",
+      "nationality": "France",
+      "causeOfDeath": "Exposure",
+      "generalLocation": "unknown",
+      "elevation": 7700
+    },
+    {
+      "name": "Narayan Shrestha",
+      "date": "1988-09-21",
+      "age": "unknown",
+      "expedition": "unknown",
+      "nationality": "Nepal",
+      "causeOfDeath": "Avalanche",
+      "generalLocation": "unknown",
+      "elevation": 7200
+    },
+    {
+      "name": "Lhakpa Sonam",
+      "date": "1988-10-13",
+      "age": "unknown",
+      "expedition": "unknown",
+      "nationality": "Nepal",
+      "causeOfDeath": "Fall",
+      "generalLocation": "unknown",
+      "elevation": 8200
+    },
+    {
+      "name": "Pasang Temba",
+      "date": "1988-10-13",
+      "age": "unknown",
+      "expedition": "unknown",
+      "nationality": "Nepal",
+      "causeOfDeath": "Fall",
+      "generalLocation": "unknown",
+      "elevation": 8200
+    },
+    {
+      "name": "Dušan Becík",
+      "date": "1988-10-17",
+      "age": 34,
+      "expedition": "IAMES Bratislava Expedition",
+      "nationality": "Czechoslovakia",
+      "causeOfDeath": "Disappearance (likely accidental death during climb)",
+      "generalLocation": "S.E. Ridge",
+      "elevation": 8000
+    },
+    {
+      "name": "Peter Božík",
+      "date": "1988-10-17",
+      "age": 34,
+      "expedition": "IAMES Bratislava Expedition",
+      "nationality": "Czechoslovakia",
+      "causeOfDeath": "Disappearance (likely accidental death during climb)",
+      "generalLocation": "S.E. Ridge",
+      "elevation": 8000
+    },
+    {
+      "name": "Jaroslav Jaško",
+      "date": "1988-10-17",
+      "age": 26,
+      "expedition": "IAMES Bratislava Expedition",
+      "nationality": "Czechoslovakia",
+      "causeOfDeath": "Disappearance (likely accidental death during climb)",
+      "generalLocation": "S.E. Ridge",
+      "elevation": 8000
+    },
+    {
+      "name": "Jozef Just",
+      "date": "1988-10-17",
+      "age": 33,
+      "expedition": "IAMES Bratislava Expedition",
+      "nationality": "Czechoslovakia",
+      "causeOfDeath": "Disappearance (likely accidental death during climb)",
+      "generalLocation": "S.E. Ridge",
+      "elevation": 8000
+    },
+    {
+      "name": "Ang Lhakpa",
+      "date": "1988-12-23",
+      "age": "unknown",
+      "expedition": "unknown",
+      "nationality": "Nepal",
+      "causeOfDeath": "Cerebral thrombosis",
+      "generalLocation": "South Col"
+    },
+    {
+      "name": "Dimitar Ilievski-Murato",
+      "date": "1989-05-10",
+      "age": 35,
+      "expedition": "unknown",
+      "nationality": "Yugoslavia",
+      "causeOfDeath": "Fall",
+      "generalLocation": "South Col",
+      "specificLocation": "Descending South Col Route"
+    },
+    {
+      "name": "Phu Dorje",
+      "date": "1989-05-16",
+      "age": "unknown",
+      "expedition": "unknown",
+      "nationality": "Nepal",
+      "causeOfDeath": "Fall",
+      "generalLocation": "South Col",
+      "specificLocation": "Descending South Col Route"
+    },
+    {
+      "name": "Mirosław Dąsal",
+      "date": "1989-05-27",
+      "age": 37,
+      "expedition": "Polish-led expedition that included four U.S. mountaineers",
+      "nationality": "Poland",
+      "causeOfDeath": "Avalanche",
+      "generalLocation": "West Ridge",
+      "elevation": 7200
+    },
+    {
+      "name": "Mirosław Gardzielewski",
+      "date": "1989-05-27",
+      "age": 35,
+      "expedition": "Polish-led expedition that included four U.S. mountaineers",
+      "nationality": "Poland",
+      "causeOfDeath": "Avalanche",
+      "generalLocation": "West Ridge",
+      "elevation": 7200
+    },
+    {
+      "name": "Andrzej Heinrich",
+      "date": "1989-05-27",
+      "age": 51,
+      "expedition": "Polish-led expedition that included four U.S. mountaineers",
+      "nationality": "Poland",
+      "causeOfDeath": "Avalanche",
+      "generalLocation": "West Ridge",
+      "elevation": 7200
+    },
+    {
+      "name": "Wacław Otręba",
+      "date": "1989-05-27",
+      "age": 50,
+      "expedition": "Polish-led expedition that included four U.S. mountaineers",
+      "nationality": "Poland",
+      "causeOfDeath": "Avalanche",
+      "generalLocation": "West Ridge",
+      "elevation": 7200
+    },
+    {
+      "name": "Eugeniusz Chrobak",
+      "date": "1989-05-28",
+      "age": 30,
+      "expedition": "Polish-led expedition that included four U.S. mountaineers",
+      "nationality": "Poland",
+      "causeOfDeath": "Avalanche injuries",
+      "generalLocation": "Lhola camp"
+    },
+    {
+      "name": "Ang Pinjo",
+      "date": "1989-12-12",
+      "age": "unknown",
+      "expedition": "South Korean expedition",
+      "nationality": "Nepal",
+      "causeOfDeath": "Altitude sickness",
+      "generalLocation": "unknown"
+    },
+    {
+      "name": "Rafael Gómez-Menor",
+      "date": "1990-09-14",
+      "age": "unknown",
+      "expedition": "unknown",
+      "nationality": "Spain",
+      "causeOfDeath": "Avalanche",
+      "generalLocation": "unknown"
+    },
+    {
+      "name": "Ang Sona",
+      "date": "1990-09-14",
+      "age": "unknown",
+      "expedition": "unknown",
+      "nationality": "Nepal",
+      "causeOfDeath": "Avalanche",
+      "generalLocation": "unknown"
+    },
+    {
+      "name": "Badri Nath",
+      "date": "1990-09-14",
+      "age": "unknown",
+      "expedition": "unknown",
+      "nationality": "Nepal",
+      "causeOfDeath": "Avalanche",
+      "generalLocation": "unknown"
+    },
+    {
+      "name": "Ham Sang-Hun",
+      "date": "1990-10-07",
+      "age": "unknown",
+      "expedition": "Japanese Korean expedition",
+      "nationality": "South Korea",
+      "causeOfDeath": "Disappearance (likely accidental death during climb)",
+      "generalLocation": "unknown"
+    },
+    {
+      "name": "Rüdiger Lang",
+      "date": "1991-05-03",
+      "age": "unknown",
+      "expedition": "Austrian solo expedition",
+      "nationality": "Germany",
+      "causeOfDeath": "Exposure",
+      "generalLocation": "N.E. Ridge",
+      "elevation": 7850
+    },
+    {
+      "name": "Junichi Futagami",
+      "date": "1991-05-27",
+      "age": "unknown",
+      "expedition": "Japanese solo expedition",
+      "nationality": "Japan",
+      "causeOfDeath": "Fall",
+      "generalLocation": "unknown",
+      "elevation": 8700
+    },
+    {
+      "name": "Deepak Kulkarni",
+      "date": "1992-05-02",
+      "age": "unknown",
+      "expedition": "Indian expedition",
+      "nationality": "India",
+      "causeOfDeath": "Exposure",
+      "generalLocation": "unknown"
+    },
+    {
+      "name": "Raymond Jacob",
+      "date": "1992-05-02",
+      "age": "unknown",
+      "expedition": "Indian expedition",
+      "nationality": "India",
+      "causeOfDeath": "Exposure",
+      "generalLocation": "unknown"
+    },
+    {
+      "name": "Subba Singh",
+      "date": "1992-05-11",
+      "age": 43,
+      "expedition": "unknown",
+      "nationality": "Nepal",
+      "causeOfDeath": "Heart attack",
+      "generalLocation": "unknown"
+    },
+    {
+      "name": "Sher Singh",
+      "date": "1992-05-23",
+      "age": "unknown",
+      "expedition": "Indian Expedition",
+      "nationality": "India",
+      "causeOfDeath": "Fall",
+      "generalLocation": "Icefall"
+    },
+    {
+      "name": "Manabu Hoshi",
+      "date": "1992-05-23",
+      "age": "unknown",
+      "expedition": "Japanese Expedition",
+      "nationality": "Japan",
+      "causeOfDeath": "Disappearance (likely accidental death during climb)",
+      "generalLocation": "unknown",
+      "elevation": 8350
+    },
+    {
+      "name": "Ang Tshering",
+      "date": "1993-01-15",
+      "age": "unknown",
+      "expedition": "Spanish Expedition",
+      "nationality": "Nepal",
+      "causeOfDeath": "Fall",
+      "generalLocation": "unknown"
+    },
+    {
+      "name": "Pasang Lhamu Sherpa",
+      "date": "1993-04-23",
+      "age": 32,
+      "expedition": "Nepalese Expedition",
+      "nationality": "Nepal",
+      "causeOfDeath": "Disappearance (likely accidental death during climb)",
+      "generalLocation": "S.E. Ridge",
+      "elevation": 8750
+    },
+    {
+      "name": "Sonam Tshering",
+      "date": "1993-04-23",
+      "age": "unknown",
+      "expedition": "Nepalese Expedition",
+      "nationality": "Nepal",
+      "causeOfDeath": "Disappearance (likely accidental death during climb)",
+      "generalLocation": "S.E. Ridge",
+      "elevation": 8750
+    },
+    {
+      "name": "Lobsang Tshering Bhutia",
+      "date": "1993-05-10",
+      "age": 41,
+      "expedition": "40th anniversary of Tenzing Norgay's climb",
+      "nationality": "Nepal",
+      "causeOfDeath": "Fall",
+      "generalLocation": "S.E. Ridge",
+      "elevation": 8750
+    },
+    {
+      "name": "Nam Won-Woo",
+      "date": "1993-05-16",
+      "age": "unknown",
+      "expedition": "South Korean expedition",
+      "nationality": "South Korea",
+      "causeOfDeath": "Fall",
+      "generalLocation": "S.E. Ridge",
+      "elevation": 8450
+    },
+    {
+      "name": "A Jin-Seob",
+      "date": "1993-05-17",
+      "age": "unknown",
+      "expedition": "South Korean expedition",
+      "nationality": "South Korea",
+      "causeOfDeath": "Fall",
+      "generalLocation": "S.E. Ridge",
+      "elevation": 8450
+    },
+    {
+      "name": "Karl Henize",
+      "date": "1993-10-05",
+      "age": 66,
+      "expedition": "American expedition",
+      "nationality": "United States",
+      "causeOfDeath": "High-altitude pulmonary edema",
+      "generalLocation": "6400m"
+    },
+    {
+      "name": "Antonio Miranda",
+      "date": "1993-10-07",
+      "age": "unknown",
+      "expedition": "unknown",
+      "nationality": "Spain",
+      "causeOfDeath": "Fall",
+      "generalLocation": "unknown"
+    },
+    {
+      "name": "Prem Thapa",
+      "date": "1994-04-06",
+      "age": "unknown",
+      "expedition": "German Expedition",
+      "nationality": "Nepal",
+      "causeOfDeath": "High-altitude cerebral edema",
+      "generalLocation": "unknown"
+    },
+    {
+      "name": "Shih Fang-Fang 'Norman'",
+      "date": "1994-05-09",
+      "age": 27,
+      "expedition": "Taiwanese",
+      "nationality": "Taiwan",
+      "causeOfDeath": "Exhaustion and/or exposure",
+      "generalLocation": "unknown"
+    },
+    {
+      "name": "Giuseppe Vigani-Fang",
+      "date": "1994-05-18",
+      "age": "unknown",
+      "expedition": "Italian Expedition",
+      "nationality": "Italy",
+      "causeOfDeath": "Fall",
+      "generalLocation": "unknown"
+    },
+    {
+      "name": "Mike Rheinberger",
+      "date": "1994-05-27",
+      "age": 53,
+      "expedition": "Australian Expedition",
+      "nationality": "Australia",
+      "causeOfDeath": "150m fall. He showed signs of Exhaustion, Dehydration, Cerebral Oedema, Retinal Hemorrages and possible blood clots in his upper legs.",
+      "generalLocation": "unknown",
+      "elevation": 8500
+    },
+    {
+      "name": "Mingma Norbu",
+      "date": "1994-09-12",
+      "age": "unknown",
+      "expedition": "Norwegian Expedition",
+      "nationality": "Nepal",
+      "causeOfDeath": "Avalanche",
+      "generalLocation": "unknown"
+    },
+    {
+      "name": "Kami Rita",
+      "date": "1995-05-06",
+      "age": "unknown",
+      "expedition": "American Expedition",
+      "nationality": "Nepal",
+      "causeOfDeath": "Fall",
+      "generalLocation": "unknown"
+    },
+    {
+      "name": "Lhakpa Nuru",
+      "date": "1995-09-10",
+      "age": "unknown",
+      "expedition": "South Korean Expedition",
+      "nationality": "Nepal",
+      "causeOfDeath": "unknown",
+      "generalLocation": "unknown",
+      "elevation": 6900
+    },
+    {
+      "name": "Zangbu",
+      "date": "1995-10-14",
+      "age": "unknown",
+      "expedition": "South Korean Expedition",
+      "nationality": "Nepal",
+      "causeOfDeath": "Fall",
+      "generalLocation": "Near Summit"
+    },
+    {
+      "name": "Chen Yu-Nan",
+      "date": "1996-05-09",
+      "age": 36,
+      "expedition": "'Makalu' Gau Ming-Ho Taiwanese expedition",
+      "nationality": "Taiwan",
+      "causeOfDeath": "Injuries from a fall",
+      "generalLocation": "unknown"
+    },
+    {
+      "name": "Unknown climber",
+      "date": "1996-05",
+      "age": "unknown",
+      "expedition": "unknown",
+      "nationality": "Hungary",
+      "causeOfDeath": "Suspected high-altitude cerebral edema, coma",
+      "generalLocation": "N.E. Ridge",
+      "specificLocation": "Camp 6",
+      "elevation": 8300
+    },
+    {
+      "name": "Scott Fischer",
+      "date": "1996-05-11",
+      "age": 40,
+      "expedition": "Mountain Madness",
+      "nationality": "United States",
+      "causeOfDeath": "Suspected high-altitude cerebral edema, exhaustion, frostbite and exposure.",
+      "generalLocation": "S.E. Ridge",
+      "elevation": 8300
+    },
+    {
+      "name": "Rob Hall",
+      "date": "1996-05-11",
+      "age": 35,
+      "expedition": "Adventure Consultants",
+      "nationality": "New Zealand",
+      "causeOfDeath": "Exposure",
+      "generalLocation": "South Summit"
+    },
+    {
+      "name": "Doug Hansen",
+      "date": "1996-05-11",
+      "age": 46,
+      "expedition": "Adventure Consultants",
+      "nationality": "United States",
+      "causeOfDeath": "Exposure",
+      "generalLocation": "South Summit"
+    },
+    {
+      "name": "Andrew Harris",
+      "date": "1996-05-11",
+      "age": 31,
+      "expedition": "Adventure Consultants",
+      "nationality": "New Zealand",
+      "causeOfDeath": "Disappearance (likely accidental death during climb)",
+      "generalLocation": "S.E. Ridge",
+      "elevation": 8700
+    },
+    {
+      "name": "Dorje Morup",
+      "date": "1996-05-11",
+      "age": 47,
+      "expedition": "Indo-Tibetan Border Police",
+      "nationality": "India",
+      "causeOfDeath": "Exposure",
+      "generalLocation": "N.E. Ridge",
+      "elevation": 8600
+    },
+    {
+      "name": "Yasuko Namba",
+      "date": "1996-05-11",
+      "age": 47,
+      "expedition": "Adventure Consultants",
+      "nationality": "Japan",
+      "causeOfDeath": "Exposure",
+      "generalLocation": "South Col"
+    },
+    {
+      "name": "Tsewang Paljor",
+      "date": "1996-05-11",
+      "age": 28,
+      "expedition": "Indo-Tibetan Border Police",
+      "nationality": "India",
+      "causeOfDeath": "Exposure",
+      "generalLocation": "N.E. Ridge",
+      "elevation": 8600
+    },
+    {
+      "name": "Tsewang Samanla",
+      "date": "1996-05-11",
+      "age": 38,
+      "expedition": "Indo-Tibetan Border Police",
+      "nationality": "India",
+      "causeOfDeath": "Exposure",
+      "generalLocation": "N.E. Ridge",
+      "elevation": 8600
+    },
+    {
+      "name": "Reinhard Wlasich",
+      "date": "1996-05-19",
+      "age": "unknown",
+      "expedition": "Austrian",
+      "nationality": "Austria",
+      "causeOfDeath": "Altitude sickness",
+      "generalLocation": "North Face",
+      "specificLocation": "Great Couloir",
+      "elevation": 8300
+    },
+    {
+      "name": "Bruce Herrod",
+      "date": "1996-05-25",
+      "age": 37,
+      "expedition": "South African/British",
+      "nationality": "United Kingdom",
+      "causeOfDeath": "Rope accident",
+      "generalLocation": "S.E. Ridge",
+      "specificLocation": "Hillary Step"
+    },
+    {
+      "name": "Ngawang Topche",
+      "date": "1996-06-06",
+      "age": "unknown",
+      "expedition": "American",
+      "nationality": "Nepal",
+      "causeOfDeath": "Lapsed into Coma on 23 Apr 1996; later died in hospital",
+      "generalLocation": "Camp 2"
+    },
+    {
+      "name": "Yves Bouchon",
+      "date": "1996-09-25",
+      "age": "unknown",
+      "expedition": "French/Belgian/Swiss",
+      "nationality": "France",
+      "causeOfDeath": "Avalanche",
+      "generalLocation": "Lhotse Face",
+      "elevation": 7400
+    },
+    {
+      "name": "Lopsang Jangbu",
+      "date": "1996-09-25",
+      "age": 25,
+      "expedition": "Japanese",
+      "nationality": "Nepal",
+      "causeOfDeath": "Avalanche",
+      "generalLocation": "Lhotse Face",
+      "elevation": 7400
+    },
+    {
+      "name": "Dawa",
+      "date": "1996-09-25",
+      "age": "unknown",
+      "expedition": "South Korea",
+      "nationality": "Nepal",
+      "causeOfDeath": "Avalanche",
+      "generalLocation": "Lhotse Face",
+      "elevation": 7400
+    },
+    {
+      "name": "Malcolm Duff",
+      "date": "1997-04-23",
+      "age": "unknown",
+      "expedition": "British",
+      "nationality": "United Kingdom",
+      "causeOfDeath": "Heart attack",
+      "generalLocation": "Base Camp"
+    },
+    {
+      "name": "Nima Rinzi",
+      "date": "1997-05-06",
+      "age": "unknown",
+      "expedition": "Malaysian",
+      "nationality": "United Kingdom",
+      "causeOfDeath": "Fall",
+      "generalLocation": "Lhotse Face"
+    },
+    {
+      "name": "Aleksandr Torochin",
+      "date": "1997-05-07",
+      "age": "unknown",
+      "expedition": "Russian",
+      "nationality": "Russia",
+      "causeOfDeath": "Fall",
+      "generalLocation": "N.E. Ridge",
+      "elevation": 8400
+    },
+    {
+      "name": "Ivan Plotnikov",
+      "date": "1997-05-07",
+      "age": "unknown",
+      "expedition": "Russian",
+      "nationality": "Russia",
+      "causeOfDeath": "Exhaustion and/or exposure",
+      "generalLocation": "N.E. Ridge",
+      "elevation": 8700
+    },
+    {
+      "name": "Nikolai Shevtchenko",
+      "date": "1997-05-07",
+      "age": "unknown",
+      "expedition": "Russian",
+      "nationality": "Russia",
+      "causeOfDeath": "Exhaustion and/or exposure",
+      "generalLocation": "N.E. Ridge",
+      "elevation": 8700
+    },
+    {
+      "name": "Mingma",
+      "date": "1997-05-07",
+      "age": "unknown",
+      "expedition": "Russian",
+      "nationality": "Nepal",
+      "causeOfDeath": "Fall",
+      "generalLocation": "N.E. Ridge"
+    },
+    {
+      "name": "Peter Kowalzik",
+      "date": "1997-05-08",
+      "age": "unknown",
+      "expedition": "Polish",
+      "nationality": "Germany",
+      "causeOfDeath": "Disappearance (likely accidental death during climb)",
+      "generalLocation": "N.E. Ridge"
+    },
+    {
+      "name": "Tenzing Nuru",
+      "date": "1997-09-08",
+      "age": "unknown",
+      "expedition": "American",
+      "nationality": "Nepal",
+      "causeOfDeath": "Disappearance (likely accidental death during climb)",
+      "generalLocation": "S.E. Ridge"
+    },
+    {
+      "name": "Choi Byong-Soo",
+      "date": "1997-09-08",
+      "age": "unknown",
+      "expedition": "South Korean",
+      "nationality": "South Korea",
+      "causeOfDeath": "Avalanche",
+      "generalLocation": "North Col",
+      "specificLocation": "North Col Flank"
+    },
+    {
+      "name": "Sergei Arsentiev",
+      "date": "1998-05-23",
+      "age": "unknown",
+      "expedition": "Russian/French",
+      "nationality": "United States",
+      "causeOfDeath": "100m Fall.",
+      "generalLocation": "N.E. Ridge"
+    },
+    {
+      "name": "Francys Arsentiev",
+      "date": "1998-05-24",
+      "age": 40,
+      "expedition": "Russian/French",
+      "nationality": "United States",
+      "causeOfDeath": "Exposure and/or cerebral oedema",
+      "generalLocation": "N.E. Ridge"
+    },
+    {
+      "name": "Mark Jennings",
+      "date": "1998-05-25",
+      "age": "unknown",
+      "expedition": "British",
+      "nationality": "United Kingdom",
+      "causeOfDeath": "Exhaustion",
+      "generalLocation": "N.E. Ridge"
+    },
+    {
+      "name": "Roger Buick",
+      "date": "1998-05-26",
+      "age": "unknown",
+      "expedition": "New Zealand",
+      "nationality": "New Zealand",
+      "causeOfDeath": "Exhaustion",
+      "generalLocation": "N.E. Ridge"
+    },
+    {
+      "name": "Vasyl Kopytko",
+      "date": "1999-05-08",
+      "age": "unknown",
+      "expedition": "Ukrainian",
+      "nationality": "Ukraine",
+      "causeOfDeath": "unknown",
+      "generalLocation": "N.E. Ridge"
+    },
+    {
+      "name": "Michael Matthews",
+      "date": "1999-05-13",
+      "age": 23,
+      "expedition": "International",
+      "nationality": "United Kingdom",
+      "causeOfDeath": "unknown",
+      "generalLocation": "S.E. Ridge"
+    },
+    {
+      "name": "Tadeusz Kudelski",
+      "date": "1999-05-18",
+      "age": 44,
+      "expedition": "Polish International",
+      "nationality": "Poland",
+      "causeOfDeath": "Fall",
+      "generalLocation": "N.E. Ridge"
+    },
+    {
+      "name": "Pascal Debrouwer",
+      "date": "1999-05-18",
+      "age": 29,
+      "expedition": "Belgian International",
+      "nationality": "Belgium",
+      "causeOfDeath": "Fall",
+      "generalLocation": "N.E. Ridge"
+    },
+    {
+      "name": "Jeppe Stoltz",
+      "date": "2000-05-20",
+      "age": 27,
+      "expedition": "unknown",
+      "nationality": "Denmark",
+      "causeOfDeath": "Fall",
+      "generalLocation": "N.E. Ridge"
+    },
+    {
+      "name": "Yan Gen-hua",
+      "date": "2000-05-21",
+      "age": "unknown",
+      "expedition": "Chinese",
+      "nationality": "China",
+      "causeOfDeath": "Fall",
+      "generalLocation": "N.E. Ridge"
+    },
+    {
+      "name": "Babu Chiri Sherpa",
+      "date": "2001-04-29",
+      "age": 35,
+      "expedition": "Nepalese",
+      "nationality": "Nepal",
+      "causeOfDeath": "Fall",
+      "generalLocation": "N.E. Ridge"
+    },
+    {
+      "name": "Peter Ganner",
+      "date": "2001-05-23",
+      "age": "unknown",
+      "expedition": "Austrian",
+      "nationality": "Austria",
+      "causeOfDeath": "Fall",
+      "generalLocation": "S.E. Ridge",
+      "elevation": 8500
+    },
+    {
+      "name": "Mark Auricht",
+      "date": "2001-05-24",
+      "age": "unknown",
+      "expedition": "Australian",
+      "nationality": "Australia",
+      "causeOfDeath": "High-altitude cerebral edema",
+      "generalLocation": "N.E. Ridge"
+    },
+    {
+      "name": "Aleksei Nikiforov",
+      "date": "2001-05-24",
+      "age": "unknown",
+      "expedition": "Russian",
+      "nationality": "Russia",
+      "causeOfDeath": "Pre-existing illness exacerbated by freezing conditions, altitude",
+      "generalLocation": "N.E. Ridge",
+      "elevation": 8500
+    },
+    {
+      "name": "Sándor Gárdos",
+      "date": "2001-10-17",
+      "age": "unknown",
+      "expedition": "Hungarian",
+      "nationality": "Hungary",
+      "causeOfDeath": "Fall",
+      "generalLocation": "N.E. Ridge",
+      "elevation": 7800
+    },
+    {
+      "name": "Peter Legate",
+      "date": "2002-04-30",
+      "age": 38,
+      "expedition": "British International",
+      "nationality": "United Kingdom",
+      "causeOfDeath": "Fall into a crevasse",
+      "generalLocation": "Camp 3",
+      "specificLocation": "Below Camp 3"
+    },
+    {
+      "name": "Zoran Miletic",
+      "date": "2002-05-19",
+      "age": "unknown",
+      "expedition": "Russian International",
+      "nationality": "Yugoslavia",
+      "causeOfDeath": "Exact cause and date of death unknown",
+      "generalLocation": "N.E. Ridge",
+      "elevation": 7800
+    },
+    {
+      "name": "Marco Siffredi",
+      "date": "2002-09-08",
+      "age": 23,
+      "expedition": "International",
+      "nationality": "France",
+      "causeOfDeath": "Snowboarding accident",
+      "generalLocation": "Hornbein Couloir"
+    },
+    {
+      "name": "Bhim Bahadur Gurung",
+      "date": "2003-05-27",
+      "age": "unknown",
+      "expedition": "Indo-Nepal",
+      "nationality": "Nepal",
+      "causeOfDeath": "Fall into a crevasse",
+      "generalLocation": "Icefall",
+      "elevation": 5900
+    },
+    {
+      "name": "Jan Krzysztof Liszewski",
+      "date": "2003-05-25",
+      "age": 55,
+      "expedition": "Independent",
+      "nationality": "Poland",
+      "causeOfDeath": "Fall",
+      "generalLocation": "N.E. Ridge",
+      "elevation": 7900
+    },
+    {
+      "name": "Arnaud Saulnier",
+      "date": "2003-05-08",
+      "age": "unknown",
+      "expedition": "French",
+      "nationality": "France",
+      "causeOfDeath": "Sickness in tent",
+      "generalLocation": "S.E. Ridge",
+      "elevation": 5500
+    },
+    {
+      "name": "Karma Gyalzen Sherpa",
+      "date": "2003-05-24",
+      "age": "unknown",
+      "expedition": "International",
+      "nationality": "Nepal",
+      "causeOfDeath": "Altitude Sickness",
+      "generalLocation": "S.E. Ridge",
+      "elevation": 6000
+    },
+    {
+      "name": "Joon-Ho Baek",
+      "date": "2004-05-18",
+      "age": 38,
+      "expedition": "South Korean",
+      "nationality": "South Korea",
+      "causeOfDeath": "Exposure",
+      "generalLocation": "N.E. Ridge",
+      "elevation": 8500
+    },
+    {
+      "name": "Min Jang",
+      "date": "2004-05-18",
+      "age": 28,
+      "expedition": "South Korean",
+      "nationality": "South Korea",
+      "causeOfDeath": "Exposure",
+      "generalLocation": "N.E. Ridge",
+      "elevation": 8500
+    },
+    {
+      "name": "Mu-Taek Park",
+      "date": "2004-05-18",
+      "age": 36,
+      "expedition": "South Korean",
+      "nationality": "South Korea",
+      "causeOfDeath": "Exposure",
+      "generalLocation": "N.E. Ridge",
+      "elevation": 8500
+    },
+    {
+      "name": "Nils Antezana",
+      "date": "2004-05-18",
+      "age": 69,
+      "expedition": "International",
+      "nationality": "United States",
+      "causeOfDeath": "Exposure",
+      "generalLocation": "S.E. Ridge",
+      "elevation": 8600
+    },
+    {
+      "name": "Hristo Ganchev Hristov",
+      "date": "2004-05-20",
+      "age": 27,
+      "expedition": "Bulgarian",
+      "nationality": "Bulgaria",
+      "causeOfDeath": "Exposure",
+      "generalLocation": "S.E. Ridge",
+      "elevation": 8600
+    },
+    {
+      "name": "Shoko Ota",
+      "date": "2004-05-20",
+      "age": 63,
+      "expedition": "Japanese",
+      "nationality": "Japan",
+      "causeOfDeath": "Exposure",
+      "generalLocation": "N.E. Ridge",
+      "elevation": 8600
+    },
+    {
+      "name": "Mariana Prodanova Maslarova",
+      "date": "2004-05-23",
+      "age": 43,
+      "expedition": "Bulgarian",
+      "nationality": "Bulgaria",
+      "causeOfDeath": "Exposure",
+      "generalLocation": "N.E. Ridge",
+      "elevation": 8700
+    },
+    {
+      "name": "Sean Egan",
+      "date": "2005-04-28",
+      "age": 63,
+      "expedition": "Tim Redpath Expedition",
+      "nationality": "Canada",
+      "causeOfDeath": "Heart attack",
+      "generalLocation": "S.E. Ridge",
+      "elevation": 4600
+    },
+    {
+      "name": "Michael Corey O'Brien",
+      "date": "2005-05-02",
+      "age": 39,
+      "expedition": "Charity run with brother",
+      "nationality": "United States",
+      "causeOfDeath": "Fall into a crevasse",
+      "generalLocation": "Icefall",
+      "specificLocation": "Icefall South",
+      "elevation": 5800
+    },
+    {
+      "name": "Marko Lihteneker",
+      "date": "2005-05-21",
+      "age": 45,
+      "expedition": "unknown",
+      "nationality": "Slovenia",
+      "causeOfDeath": "unknown",
+      "generalLocation": "N.E. Ridge",
+      "elevation": 8600
+    },
+    {
+      "name": "Sirigereshiva Shankarappa Chaitanya",
+      "date": "2005-05-30",
+      "age": "unknown",
+      "expedition": "India",
+      "nationality": "India",
+      "causeOfDeath": "Exposure",
+      "generalLocation": "N.E. Ridge",
+      "elevation": 8700
+    },
+    {
+      "name": "Dieter Kramer",
+      "date": "2005-06-04",
+      "age": "unknown",
+      "expedition": "German",
+      "nationality": "Germany",
+      "causeOfDeath": "Exposure",
+      "generalLocation": "unknown",
+      "elevation": 8000
+    },
+    {
+      "name": "Robert William Milne",
+      "date": "2005-06-05",
+      "age": 49,
+      "expedition": "unknown",
+      "nationality": "United Kingdom",
+      "causeOfDeath": "Organ failure due to freezing conditions",
+      "generalLocation": "S.E. Ridge",
+      "elevation": 8200
+    },
+    {
+      "name": "Tuk Bahadur Thapa Magar Sherpa",
+      "date": "2006-04-07",
+      "age": "unknown",
+      "expedition": "American",
+      "nationality": "Nepal",
+      "causeOfDeath": "Altitude",
+      "generalLocation": "N.E. Ridge",
+      "elevation": 5500
+    },
+    {
+      "name": "Ang Phinjo Sherpa",
+      "date": "2006-04-21",
+      "age": 50,
+      "expedition": "American",
+      "nationality": "Nepal",
+      "causeOfDeath": "Avalanche",
+      "generalLocation": "Icefall",
+      "elevation": 5900
+    },
+    {
+      "name": "Lhakpa Tseri",
+      "date": "2006-04-21",
+      "age": "unknown",
+      "expedition": "American",
+      "nationality": "Nepal",
+      "causeOfDeath": "Avalanche",
+      "generalLocation": "Icefall",
+      "elevation": 5900
+    },
+    {
+      "name": "Dawa Temba",
+      "date": "2006-04-21",
+      "age": "unknown",
+      "expedition": "American",
+      "nationality": "Nepal",
+      "causeOfDeath": "Avalanche",
+      "generalLocation": "Icefall",
+      "elevation": 5900
+    },
+    {
+      "name": "Jacques-Hugues Letrange",
+      "date": "2006-05-06",
+      "age": "unknown",
+      "expedition": "American",
+      "nationality": "France",
+      "causeOfDeath": "Exhaustion",
+      "generalLocation": "N.E. Ridge"
+    },
+    {
+      "name": "Srikrishna",
+      "date": "2006-05-14",
+      "age": "unknown",
+      "expedition": "Indian",
+      "nationality": "India",
+      "causeOfDeath": "Fall",
+      "generalLocation": "N.E. Ridge",
+      "elevation": 8600
+    },
+    {
+      "name": "David Sharp",
+      "date": "2006-05-15",
+      "age": 34,
+      "expedition": "Asian Trekking",
+      "nationality": "United Kingdom",
+      "causeOfDeath": "Exposure and/or exhaustion",
+      "generalLocation": "N.E. Ridge",
+      "elevation": 8600
+    },
+    {
+      "name": "Tomas Olsson",
+      "date": "2006-05-16",
+      "age": 30,
+      "expedition": "International",
+      "nationality": "Sweden",
+      "causeOfDeath": "Fall",
+      "generalLocation": "Norton Couloir",
+      "elevation": 8700
+    },
+    {
+      "name": "Vitor Negrete",
+      "date": "2006-05-19",
+      "age": 38,
+      "expedition": "International",
+      "nationality": "Brazil",
+      "causeOfDeath": "Exposure and/or exhaustion",
+      "generalLocation": "N.E. Ridge",
+      "specificLocation": "Camp 3",
+      "elevation": 8200
+    },
+    {
+      "name": "Igor Plyushkin",
+      "date": "2006-05-22",
+      "age": "unknown",
+      "expedition": "International",
+      "nationality": "Russia",
+      "causeOfDeath": "Altitude sickness",
+      "generalLocation": "N.E. Ridge",
+      "elevation": 7800
+    },
+    {
+      "name": "Thomas Weber",
+      "date": "2006-05-25",
+      "age": "unknown",
+      "expedition": "International",
+      "nationality": "Germany",
+      "causeOfDeath": "Altitude sickness",
+      "generalLocation": "N.E. Ridge",
+      "elevation": 8700
+    },
+    {
+      "name": "Yoshitomi Okura",
+      "date": "2007-05-16",
+      "age": 62,
+      "expedition": "Japanese",
+      "nationality": "Japan",
+      "causeOfDeath": "unknown",
+      "generalLocation": "N.E. Ridge"
+    },
+    {
+      "name": "Maurizio Pierangelo",
+      "date": "2007-05-17",
+      "age": 46,
+      "expedition": "Italian",
+      "nationality": "Italy",
+      "causeOfDeath": "unknown",
+      "generalLocation": "N.E. Ridge"
+    },
+    {
+      "name": "Oh Hee-joon",
+      "date": "2007-05-17",
+      "age": 37,
+      "expedition": "South Korean",
+      "nationality": "South Korea",
+      "causeOfDeath": "unknown",
+      "generalLocation": "S.W. Face"
+    },
+    {
+      "name": "Lee Hyun-jo",
+      "date": "2007-05-17",
+      "age": 34,
+      "expedition": "South Korean",
+      "nationality": "South Korea",
+      "causeOfDeath": "unknown",
+      "generalLocation": "S.W. Face"
+    },
+    {
+      "name": "Uwe Gianni Goltz",
+      "date": "2008-05-21",
+      "age": 44,
+      "expedition": "Sherpas documentary team",
+      "nationality": "Switzerland",
+      "causeOfDeath": "Exhaustion",
+      "generalLocation": "South Col",
+      "elevation": 8000
+    },
+    {
+      "name": "Lhakpa Nuru",
+      "date": "2009-05-07",
+      "age": "unknown",
+      "expedition": "Eco Everest Expedition",
+      "nationality": "Nepal",
+      "causeOfDeath": "Avalanche",
+      "generalLocation": "Icefall"
+    },
+    {
+      "name": "Veslav Chrzaszcz",
+      "date": "2009-05-18",
+      "age": 47,
+      "expedition": "Eco Everest Expedition",
+      "nationality": "Czech Republic",
+      "causeOfDeath": "Heart attack",
+      "generalLocation": "unknown"
+    },
+    {
+      "name": "Wenhong Wu",
+      "date": "2009-05-19",
+      "age": "unknown",
+      "expedition": "unknown",
+      "nationality": "China",
+      "causeOfDeath": "unknown",
+      "generalLocation": "unknown"
+    },
+    {
+      "name": "Frank Ziebarth",
+      "date": "2009-05-21",
+      "age": 29,
+      "expedition": "unknown",
+      "nationality": "Canada",
+      "causeOfDeath": "unknown",
+      "generalLocation": "North Summit",
+      "elevation": 8700
+    },
+    {
+      "name": "László Várkonyi",
+      "date": "2010-04-26",
+      "age": 54,
+      "expedition": "unknown",
+      "nationality": "Hungary",
+      "causeOfDeath": "Avalanche crevasse fall",
+      "generalLocation": "North Col"
+    },
+    {
+      "name": "Tom Jørgensen",
+      "date": "2010-05-19",
+      "age": 56,
+      "expedition": "unknown",
+      "nationality": "Denmark",
+      "causeOfDeath": "High-altitude cerebral edema",
+      "generalLocation": "unknown"
+    },
+    {
+      "name": "Peter Kinloch",
+      "date": "2010-05-26",
+      "age": 28,
+      "expedition": "International",
+      "nationality": "United Kingdom",
+      "causeOfDeath": "Exhaustion",
+      "generalLocation": "unknown",
+      "elevation": 8600
+    },
+    {
+      "name": "Rick Hitch",
+      "date": "2011-05-01",
+      "age": 55,
+      "expedition": "International",
+      "nationality": "United States",
+      "causeOfDeath": "Heart attack",
+      "generalLocation": "unknown",
+      "elevation": 7010
+    },
+    {
+      "name": "Shailendra Kumar Upadhyaya",
+      "date": "2011-05-09",
+      "age": 82,
+      "expedition": "Nepal",
+      "nationality": "Nepal",
+      "causeOfDeath": "Altitude sickness",
+      "generalLocation": "Base Camp"
+    },
+    {
+      "name": "Takashi Ozaki",
+      "date": "2011-05-12",
+      "age": 58,
+      "expedition": "International",
+      "nationality": "Japan",
+      "causeOfDeath": "Altitude sickness",
+      "generalLocation": "The Balcony",
+      "elevation": 8400
+    },
+    {
+      "name": "John Delaney",
+      "date": "2011-05-21",
+      "age": 42,
+      "expedition": "International",
+      "nationality": "Ireland",
+      "causeOfDeath": "Altitude sickness",
+      "generalLocation": "The Balcony",
+      "elevation": 8400
+    },
+    {
+      "name": "Hiroaki Kino",
+      "date": "2011-09-15",
+      "age": 48,
+      "expedition": "unknown",
+      "nationality": "Japan",
+      "causeOfDeath": "Cerebral apoplexy",
+      "generalLocation": "Icefall",
+      "specificLocation": "Lower Icefall"
+    },
+    {
+      "name": "Dawa Tenzing",
+      "date": "2012-04-05",
+      "age": "unknown",
+      "expedition": "Himex",
+      "nationality": "Nepal",
+      "causeOfDeath": "Stroke",
+      "generalLocation": "Icefall"
+    },
+    {
+      "name": "Karsang Namgyal Sherpa",
+      "date": "2012-04-19",
+      "age": "unknown",
+      "expedition": "Prestige Adventures",
+      "nationality": "Nepal",
+      "causeOfDeath": "Altitude sickness",
+      "generalLocation": "Base Camp"
+    },
+    {
+      "name": "Ramesh Gulve",
+      "date": "2012-04-20",
+      "age": 33,
+      "expedition": "Pune team",
+      "nationality": "India",
+      "causeOfDeath": "Stroke",
+      "generalLocation": "Base Camp"
+    },
+    {
+      "name": "Namgyal Tshering Sherpa",
+      "date": "2012-04-21",
+      "age": 28,
+      "expedition": "unknown",
+      "nationality": "Nepal",
+      "causeOfDeath": "Fall into a crevasse",
+      "generalLocation": "Camp 1"
+    },
+    {
+      "name": "Shriya Shah-Klorfine",
+      "date": "2012-05-19",
+      "age": 33,
+      "expedition": "Utmost Adventures",
+      "nationality": "Canada",
+      "causeOfDeath": "Exhaustion",
+      "generalLocation": "Below Balcony",
+      "elevation": 8300
+    },
+    {
+      "name": "Eberhard Schaaf",
+      "date": "2012-05-19",
+      "age": 61,
+      "expedition": "Asian Trekking",
+      "nationality": "Germany",
+      "causeOfDeath": "High-altitude cerebral edema",
+      "generalLocation": "Hillary Step"
+    },
+    {
+      "name": "Song Won-bin",
+      "date": "2012-05-19",
+      "age": 44,
+      "expedition": "Korean Everest & Lhotse Expedition",
+      "nationality": "South Korea",
+      "causeOfDeath": "Fall",
+      "generalLocation": "The Balcony"
+    },
+    {
+      "name": "Ha Wenyi",
+      "date": "2012-05-20",
+      "age": 55,
+      "expedition": "Mountain Experience",
+      "nationality": "China",
+      "causeOfDeath": "Suspected altitude sickness",
+      "generalLocation": "The Balcony"
+    },
+    {
+      "name": "Juan José Polo Carbayo",
+      "date": "2012-05-20",
+      "age": 43,
+      "expedition": "Himalayan Guides",
+      "nationality": "Spain",
+      "causeOfDeath": "Exhaustion",
+      "generalLocation": "N.E. Ridge",
+      "elevation": 8300
+    },
+    {
+      "name": "Ralf D. Arnold",
+      "date": "2012-05-20",
+      "age": 43,
+      "expedition": "Monterosa",
+      "nationality": "Germany",
+      "causeOfDeath": "Exhaustion and related complications after breaking leg at Second Step",
+      "generalLocation": "N.E. Ridge",
+      "elevation": 8300
+    },
+    {
+      "name": "Piseth Lim",
+      "date": "2012-10-19",
+      "age": 27,
+      "expedition": "International",
+      "nationality": "Cambodia",
+      "causeOfDeath": "Encountered inclement weather",
+      "generalLocation": "unknown",
+      "elevation": 4000
+    },
+    {
+      "name": "Mingma Sherpa",
+      "date": "2013-04-07",
+      "age": 45,
+      "expedition": "Destination Himalaya",
+      "nationality": "Nepal",
+      "causeOfDeath": "Falling into a crevasse",
+      "generalLocation": "unknown",
+      "specificLocation": "Between Camps 1 and 2 in the Western Cwm"
+    },
+    {
+      "name": "DaRita Sherpa",
+      "date": "2013-05-05",
+      "age": 37,
+      "expedition": "International Mountain Guides",
+      "nationality": "Nepal",
+      "causeOfDeath": "Suspected cardiac arrest",
+      "generalLocation": "Camp 3",
+      "specificLocation": "Camp 3 on south side"
+    },
+    {
+      "name": "Sergey Ponomarev",
+      "date": "2013-05-05",
+      "age": "unknown",
+      "expedition": "7 Summits Club Everest expedition",
+      "nationality": "Russia",
+      "causeOfDeath": "Suspected cardiac arrest",
+      "generalLocation": "unknown",
+      "specificLocation": "At 100m above ABC on north side",
+      "elevation": 6500
+    },
+    {
+      "name": "Lobsang Sherpa",
+      "date": "2013-05-07",
+      "age": 22,
+      "expedition": "Chinese expedition team",
+      "nationality": "Nepal",
+      "causeOfDeath": "Fall",
+      "generalLocation": "unknown",
+      "specificLocation": "Between Camp 2 and Camp 3 on descent from Camp 4 (on south side)"
+    },
+    {
+      "name": "Alexey Bolotov",
+      "date": "2013-05-15",
+      "age": 50,
+      "expedition": "Russian South-West Face expedition",
+      "nationality": "Russia",
+      "causeOfDeath": "Fall",
+      "generalLocation": "Icefall",
+      "elevation": 5600
+    },
+    {
+      "name": "Namgyal Sherpa",
+      "date": "2013-05-17",
+      "age": 35,
+      "expedition": "unknown",
+      "nationality": "Nepal",
+      "causeOfDeath": "unknown",
+      "generalLocation": "N.E. Ridge",
+      "elevation": 8300
+    },
+    {
+      "name": "Seo Sung-Ho",
+      "date": "2013-05-21",
+      "age": 33,
+      "expedition": "Zero to 8848 expedition",
+      "nationality": "South Korea",
+      "causeOfDeath": "Suspected Altitude Sickness",
+      "generalLocation": "unknown",
+      "specificLocation": "On descent (south side)"
+    },
+    {
+      "name": "Sajal Khaled (Mohammed Khaled Hossain)",
+      "date": "2013-05-21",
+      "age": 35,
+      "expedition": "unknown",
+      "nationality": "Bangladesh",
+      "causeOfDeath": "Suspected Altitude Sickness",
+      "generalLocation": "South Col Camp"
+    },
+    {
+      "name": "Unknown climber",
+      "date": "2013-05-22",
+      "age": "unknown",
+      "expedition": "unknown",
+      "nationality": "Nepal",
+      "causeOfDeath": "Suspected Altitude Sickness",
+      "generalLocation": "Camp 4",
+      "specificLocation": "Camp 4 (south side) in tent"
+    },
+    {
+      "name": "Mingma Tenzing Sherpa",
+      "date": "2014-04-02",
+      "age": "unknown",
+      "expedition": "Peak Freaks Expedition",
+      "nationality": "Nepal",
+      "causeOfDeath": "High-altitude pulmonary edema",
+      "generalLocation": "Base Camp"
+    },
+    {
+      "name": "Mingma Nuru Sherpa",
+      "date": "2014-04-18",
+      "age": 46,
+      "expedition": "NBC Everest Expedition 2014",
+      "nationality": "Nepal",
+      "causeOfDeath": "Avalanche",
+      "generalLocation": "Icefall"
+    },
+    {
+      "name": "Dorji Sherpa",
+      "date": "2014-04-18",
+      "age": "unknown",
+      "expedition": "NBC Everest Expedition 2014",
+      "nationality": "Nepal",
+      "causeOfDeath": "Avalanche",
+      "generalLocation": "Icefall"
+    },
+    {
+      "name": "Ang Tshiri Sherpa",
+      "date": "2014-04-18",
+      "age": "unknown",
+      "expedition": "AAI Everest Expedition 2014",
+      "nationality": "Nepal",
+      "causeOfDeath": "Avalanche",
+      "generalLocation": "Icefall"
+    },
+    {
+      "name": "Nima Sherpa",
+      "date": "2014-04-18",
+      "age": "unknown",
+      "expedition": "AAI Everest Expedition 2014",
+      "nationality": "Nepal",
+      "causeOfDeath": "Avalanche",
+      "generalLocation": "Icefall"
+    },
+    {
+      "name": "Phurba Ongyal Sherpa",
+      "date": "2014-04-18",
+      "age": "unknown",
+      "expedition": "Adventure Consultants",
+      "nationality": "Nepal",
+      "causeOfDeath": "Avalanche",
+      "generalLocation": "Icefall"
+    },
+    {
+      "name": "Lapka Tenjing Sherpa",
+      "date": "2014-04-18",
+      "age": "unknown",
+      "expedition": "Adventure Consultants",
+      "nationality": "Nepal",
+      "causeOfDeath": "Avalanche",
+      "generalLocation": "Icefall"
+    },
+    {
+      "name": "Chhiring Ongchu Sherpa",
+      "date": "2014-04-18",
+      "age": "unknown",
+      "expedition": "Adventure Consultants",
+      "nationality": "Nepal",
+      "causeOfDeath": "Avalanche",
+      "generalLocation": "Icefall"
+    },
+    {
+      "name": "Dorjee Khatri",
+      "date": "2014-04-18",
+      "age": "unknown",
+      "expedition": "Adventurist Everest Expedition 2014",
+      "nationality": "Nepal",
+      "causeOfDeath": "Avalanche",
+      "generalLocation": "Icefall"
+    },
+    {
+      "name": "Then Dorjee Sherpa",
+      "date": "2014-04-18",
+      "age": "unknown",
+      "expedition": "Adventurist Everest Expedition 2014",
+      "nationality": "Nepal",
+      "causeOfDeath": "Avalanche",
+      "generalLocation": "Icefall"
+    },
+    {
+      "name": "Phur Temba Sherpa",
+      "date": "2014-04-18",
+      "age": "unknown",
+      "expedition": "Adventurist Everest Expedition 2014",
+      "nationality": "Nepal",
+      "causeOfDeath": "Avalanche",
+      "generalLocation": "Icefall"
+    },
+    {
+      "name": "Pasang Karma Sherpa",
+      "date": "2014-04-18",
+      "age": "unknown",
+      "expedition": "Jagged Globe Everest Expedition 2014",
+      "nationality": "Nepal",
+      "causeOfDeath": "Avalanche",
+      "generalLocation": "Icefall"
+    },
+    {
+      "name": "Asman Tamang",
+      "date": "2014-04-18",
+      "age": "unknown",
+      "expedition": "Himalayan Ecstasy Khotse Expedition 2014",
+      "nationality": "Nepal",
+      "causeOfDeath": "Avalanche",
+      "generalLocation": "Icefall"
+    },
+    {
+      "name": "Tenzing Chottar Sherpa",
+      "date": "2014-04-18",
+      "age": "unknown",
+      "expedition": "AAI Everest Expedition 2014",
+      "nationality": "Nepal",
+      "causeOfDeath": "Avalanche (missing)",
+      "generalLocation": "Icefall"
+    },
+    {
+      "name": "Ankaji Sherpa",
+      "date": "2014-04-18",
+      "age": "unknown",
+      "expedition": "Everest Chinese Dream Expedition 2014",
+      "nationality": "Nepal",
+      "causeOfDeath": "Avalanche",
+      "generalLocation": "Icefall"
+    },
+    {
+      "name": "PemTenji Sherpa",
+      "date": "2014-04-18",
+      "age": "unknown",
+      "expedition": "Everest Chinese Dream Expedition 2014",
+      "nationality": "Nepal",
+      "causeOfDeath": "Avalanche (missing)",
+      "generalLocation": "Icefall"
+    },
+    {
+      "name": "Aash Bahadur Gurung",
+      "date": "2014-04-18",
+      "age": "unknown",
+      "expedition": "Everest Chinese Dream Expedition 2014",
+      "nationality": "Nepal",
+      "causeOfDeath": "Avalanche (missing)",
+      "generalLocation": "Icefall"
+    },
+    {
+      "name": "Daniel Paul Fredinburg",
+      "date": "2015-04-25",
+      "age": 33,
+      "expedition": "2014 IMG Everest Expedition III",
+      "nationality": "United States",
+      "causeOfDeath": "Avalanche",
+      "causeOfDeathDetails": "Base Camp avalanche following the April 2015 Nepal earthquake",
+      "generalLocation": "Base Camp"
+    },
+    {
+      "name": "Marisa Eve Girawong",
+      "date": "2015-04-25",
+      "age": 28,
+      "expedition": "H.G. Nuptse Expedition 2015",
+      "nationality": "United States",
+      "causeOfDeath": "Avalanche",
+      "causeOfDeathDetails": "Base Camp avalanche following the April 2015 Nepal earthquake",
+      "generalLocation": "Base Camp"
+    },
+    {
+      "name": "Thomas Ely Taplin",
+      "date": "2015-04-25",
+      "age": 61,
+      "expedition": "TET Films & Photography",
+      "nationality": "United States",
+      "causeOfDeath": "Avalanche",
+      "causeOfDeathDetails": "Base Camp avalanche following the April 2015 Nepal earthquake",
+      "generalLocation": "Base Camp"
+    },
+    {
+      "name": "Pemba Sherpa",
+      "date": "2015-04-25",
+      "age": 19,
+      "expedition": "Adventure Consultants",
+      "nationality": "Nepal",
+      "causeOfDeath": "Avalanche",
+      "causeOfDeathDetails": "Base Camp avalanche following the April 2015 Nepal earthquake",
+      "generalLocation": "Base Camp"
+    },
+    {
+      "name": "Dawa Tsering Sherpa",
+      "date": "2015-04-25",
+      "age": 33,
+      "expedition": "Adventure Consultants",
+      "nationality": "Nepal",
+      "causeOfDeath": "Avalanche",
+      "causeOfDeathDetails": "Base Camp avalanche following the April 2015 Nepal earthquake",
+      "generalLocation": "Base Camp"
+    },
+    {
+      "name": "Maila (Milan) Rai",
+      "date": "2015-04-25",
+      "age": 41,
+      "expedition": "Adventure Consultants",
+      "nationality": "Nepal",
+      "causeOfDeath": "Avalanche",
+      "causeOfDeathDetails": "Base Camp avalanche following the April 2015 Nepal earthquake",
+      "generalLocation": "Base Camp"
+    },
+    {
+      "name": "Chhimi Dawa Sherpa",
+      "date": "2015-04-25",
+      "age": 27,
+      "expedition": "Adventure Consultants",
+      "nationality": "Nepal",
+      "causeOfDeath": "Avalanche",
+      "causeOfDeathDetails": "Base Camp avalanche following the April 2015 Nepal earthquake",
+      "generalLocation": "Base Camp"
+    },
+    {
+      "name": "Pema Yishi (Hissi) Sherpa",
+      "date": "2015-04-25",
+      "age": "unknown",
+      "expedition": "Adventure Consultants",
+      "nationality": "Nepal",
+      "causeOfDeath": "Avalanche",
+      "causeOfDeathDetails": "Base Camp avalanche following the April 2015 Nepal earthquake",
+      "generalLocation": "Base Camp"
+    },
+    {
+      "name": "Pasang Temba Sherpa",
+      "date": "2015-04-25",
+      "age": "unknown",
+      "expedition": "Tim Mosedale Everest Expedition (or H.G. Everest Expedition 2015)",
+      "nationality": "Nepal",
+      "causeOfDeath": "Avalanche",
+      "causeOfDeathDetails": "Base Camp avalanche following the April 2015 Nepal earthquake",
+      "generalLocation": "Base Camp"
+    },
+    {
+      "name": "Krishna Kumar Rai",
+      "date": "2015-04-25",
+      "age": "unknown",
+      "expedition": "Tim Mosedale Everest Expedition (or H.G. Everest Expedition 2015)",
+      "nationality": "Nepal",
+      "causeOfDeath": "Avalanche",
+      "causeOfDeathDetails": "Base Camp avalanche following the April 2015 Nepal earthquake",
+      "generalLocation": "Base Camp"
+    },
+    {
+      "name": "Zhenfang Ge",
+      "date": "2015-04-25",
+      "age": 43,
+      "expedition": "Dreamers Destination Track Lhotse Expedition 2015",
+      "nationality": "China",
+      "causeOfDeath": "Avalanche",
+      "causeOfDeathDetails": "Base Camp avalanche following the April 2015 Nepal earthquake",
+      "generalLocation": "Base Camp"
+    },
+    {
+      "name": "Renu Fotedar",
+      "date": "2015-04-25",
+      "age": 49,
+      "expedition": "First Chinese Women Everest Expedition",
+      "nationality": "Australia, India",
+      "causeOfDeath": "Avalanche",
+      "causeOfDeathDetails": "Base Camp avalanche following the April 2015 Nepal earthquake",
+      "generalLocation": "Base Camp"
+    },
+    {
+      "name": "Tenzing (Tengien) Bhote",
+      "date": "2015-04-25",
+      "age": "unknown",
+      "expedition": "Tim Mosedale Everest Expedition (or H.G. Everest Expedition 2015)",
+      "nationality": "Nepal",
+      "causeOfDeath": "Avalanche",
+      "causeOfDeathDetails": "Base Camp avalanche following the April 2015 Nepal earthquake",
+      "generalLocation": "Base Camp"
+    },
+    {
+      "name": "Vinh B Truong",
+      "date": "2015-04-25",
+      "age": 48,
+      "expedition": "Trekker",
+      "nationality": "United States, Vietnam",
+      "causeOfDeath": "Avalanche",
+      "causeOfDeathDetails": "Base Camp avalanche following the April 2015 Nepal earthquake",
+      "generalLocation": "Base Camp"
+    },
+    {
+      "name": "Lhakpa Chhiring Sherpa",
+      "date": "2015-04-25",
+      "age": 33,
+      "expedition": "First Chinese Women Everest Expedition",
+      "nationality": "Nepal",
+      "causeOfDeath": "Avalanche",
+      "causeOfDeathDetails": "Base Camp avalanche following the April 2015 Nepal earthquake",
+      "generalLocation": "Base Camp"
+    },
+    {
+      "name": "Shiva Kumar Shrestha",
+      "date": "2015-04-25",
+      "age": 25,
+      "expedition": "Step Up Campaign Everest",
+      "nationality": "Nepal",
+      "causeOfDeath": "Avalanche",
+      "causeOfDeathDetails": "Base Camp avalanche following the April 2015 Nepal earthquake",
+      "generalLocation": "Base Camp"
+    },
+    {
+      "name": "Scott Stark",
+      "date": "2015-04-25",
+      "age": 27,
+      "expedition": "MC Films & Photography",
+      "nationality": "United States",
+      "causeOfDeath": "Avalanche",
+      "causeOfDeathDetails": "Base Camp avalanche following the April 2015 Nepal earthquake",
+      "generalLocation": "Base Camp"
+    },
+    {
+      "name": "Yomagato Horoshi",
+      "date": "2015-04-27",
+      "age": 56,
+      "expedition": "Dreamers Destination Lhotse Expedition",
+      "nationality": "Japan",
+      "causeOfDeath": "Died in Kathmandu due to injuries sustained in the Base Camp avalanche following the April 2015 Nepal earthquake",
+      "generalLocation": "Base Camp"
+    },
+    {
+      "name": "Jangbu Sherpa",
+      "date": "2015-05-01",
+      "age": "unknown",
+      "expedition": "Adventure Consultants",
+      "nationality": "Nepal",
+      "causeOfDeath": "Died in Kathmandu due to injuries sustained in the Base Camp avalanche following the April 2015 Nepal earthquake",
+      "generalLocation": "Base Camp"
+    },
+    {
+      "name": "Charles MacAdams",
+      "date": "2016-05-11",
+      "age": 62,
+      "expedition": "unknown",
+      "nationality": "Canada",
+      "causeOfDeath": "Cardiac event",
+      "generalLocation": "Base Camp",
+      "specificLocation": "Base Camp North Side"
+    },
+    {
+      "name": "Phurba Sherpa",
+      "date": "2016-05-19",
+      "age": 25,
+      "expedition": "unknown",
+      "nationality": "Nepal",
+      "causeOfDeath": "Fall",
+      "generalLocation": "Near Lhotse summit"
+    },
+    {
+      "name": "Eric Arnold",
+      "date": "2016-05-21",
+      "age": 35,
+      "expedition": "Arnold Coster Expeditions",
+      "nationality": "Netherlands",
+      "causeOfDeath": "Altitude sickness",
+      "generalLocation": "South Col",
+      "specificLocation": "Camp 4"
+    },
+    {
+      "name": "Maria Elizabeth Strydom",
+      "date": "2016-05-22",
+      "age": 34,
+      "expedition": "Arnold Coster Expeditions",
+      "nationality": "Australia",
+      "causeOfDeath": "Snow blindness, stroke",
+      "generalLocation": "Camp 4"
+    },
+    {
+      "name": "Subhash Pal",
+      "date": "2016-05-22",
+      "age": 44,
+      "expedition": "Trekking Camp Nepal",
+      "nationality": "India",
+      "causeOfDeath": "Altitude sickness",
+      "generalLocation": "Camp 3"
+    },
+    {
+      "name": "Paresh Chandra Nath",
+      "date": "2016-05-22",
+      "age": 58,
+      "expedition": "Trekking Camp Nepal",
+      "nationality": "India",
+      "causeOfDeath": "Exposure",
+      "generalLocation": "The Balcony"
+    },
+    {
+      "name": "Goutam Ghosh",
+      "date": "2016-05-22",
+      "age": "unknown",
+      "expedition": "Trekking Camp Nepal",
+      "nationality": "India",
+      "causeOfDeath": "Exposure",
+      "generalLocation": "The Balcony"
+    },
+    {
+      "name": "Min Bahadur Sherchan",
+      "date": "2017-05-05",
+      "age": 85,
+      "expedition": "unknown",
+      "nationality": "Nepal",
+      "causeOfDeath": "Heart Attack",
+      "generalLocation": "Base Camp"
+    },
+    {
+      "name": "Roland Yearwood",
+      "date": "2017-05-20",
+      "age": 50,
+      "expedition": "Everest Parivar Treks",
+      "nationality": "United States",
+      "causeOfDeath": "Altitude sickness",
+      "generalLocation": "Balcony"
+    },
+    {
+      "name": "Vladimír Štrba",
+      "date": "2017-05-21",
+      "age": 48,
+      "expedition": "Everest Hard Way Slovak Expedition 2017",
+      "nationality": "Slovakia",
+      "causeOfDeath": "Altitude sickness",
+      "generalLocation": "Camp IV, in the tent"
+    },
+    {
+      "name": "Francesco Enrico Marchetti",
+      "date": "2017-05-21",
+      "age": 54,
+      "expedition": "Expedition Himalaya",
+      "nationality": "Australia",
+      "causeOfDeath": "Altitude sickness",
+      "generalLocation": "Camp IV"
+    },
+    {
+      "name": "Ravi Kumar",
+      "date": "2017-05-21",
+      "age": 27,
+      "expedition": "Arun treks and Expedition",
+      "nationality": "India",
+      "causeOfDeath": "Fall into a 200m crevasse",
+      "generalLocation": "Balcony"
+    },
+    {
+      "name": "Ueli Steck",
+      "date": "2017-04-30",
+      "age": 40,
+      "expedition": "Solo",
+      "nationality": "Switzerland",
+      "causeOfDeath": "Fall 1000m, his body was found in the Western Cwm",
+      "generalLocation": "300m below the summit at the West Ridge"
+    },
+    {
+      "name": "Lam Babu Sherpa",
+      "date": "2018-05-14",
+      "age": 45,
+      "expedition": "Seven Summit Treks",
+      "nationality": "Nepal",
+      "causeOfDeath": "Disappearance (reportedly suffered from snow blindness)",
+      "generalLocation": "Above South Col"
+    },
+    {
+      "name": "Pasang Norbu Sherpa",
+      "date": "2018-05-18",
+      "age": 41,
+      "expedition": "7 Summits Club Expedition",
+      "nationality": "Nepal",
+      "causeOfDeath": "Stroke",
+      "generalLocation": "8550m N.E. Ridge"
+    },
+    {
+      "name": "Gjeorgi Petkov",
+      "date": "2018-05-20",
+      "age": 63,
+      "expedition": "Tim Mosedale Everest Expedition Spring 2018",
+      "nationality": "Macedonia",
+      "causeOfDeath": "Cardiac arrest",
+      "generalLocation": "Above Camp III"
+    },
+    {
+      "name": "Nobukazu Kuriki",
+      "date": "2018-05-21",
+      "age": 36,
+      "expedition": "Solo",
+      "nationality": "Japan",
+      "causeOfDeath": "Hypothermia, had previously reported 'persistent cough and pain' during attempt",
+      "generalLocation": "Camp II"
+    },
+    {
+      "name": "Damai Sarki Sherpa",
+      "date": "2018-05-21",
+      "age": 37,
+      "expedition": "Himalayan Ascent, Seven Summit Treks",
+      "nationality": "Nepal",
+      "causeOfDeath": "Fall into a crevasse",
+      "generalLocation": "Camp II"
+    },
+    {
+      "name": "Chris Daly",
+      "date": "2019-04-20",
+      "age": 35,
+      "expedition": "Solo",
+      "nationality": "United States",
+      "causeOfDeath": "Died after a fall while trekking down from base camp",
+      "generalLocation": "Base Camp"
+    },
+    {
+      "name": "Séamus (Shay) Lawless",
+      "date": "2019-05-16",
+      "age": 39,
+      "expedition": "Seven Summit Treks",
+      "nationality": "Ireland",
+      "causeOfDeath": "Presumed dead after fall",
+      "generalLocation": "Balcony"
+    },
+    {
+      "name": "Ravi Thakar",
+      "date": "2019-05-17",
+      "age": 28,
+      "expedition": "Seven Summit Treks",
+      "nationality": "India",
+      "causeOfDeath": "Altitude Sickness",
+      "generalLocation": "Camp IV"
+    },
+    {
+      "name": "Donald Cash",
+      "date": "2019-05-22",
+      "age": 55,
+      "expedition": "Pioneer Adventures",
+      "nationality": "United States",
+      "causeOfDeath": "Altitude Sickness",
+      "generalLocation": "Hillary Step"
+    },
+    {
+      "name": "Nihal Bagwan",
+      "date": "2019-05-23",
+      "age": 27,
+      "expedition": "Peak Promotions",
+      "nationality": "India",
+      "causeOfDeath": "Exhaustion on descent",
+      "generalLocation": "near South Col"
+    },
+    {
+      "name": "Ernst Landgraf",
+      "date": "2019-05-23",
+      "age": 65,
+      "expedition": "Kobler & Partners",
+      "nationality": "Austria",
+      "causeOfDeath": "Exhaustion on descent",
+      "generalLocation": "Tibet side at 8600m after summiting"
+    },
+    {
+      "name": "Anjali S Kulkarni",
+      "date": "2019-05-23",
+      "age": 54,
+      "expedition": "Transcent or Arun Treks",
+      "nationality": "India",
+      "causeOfDeath": "Exhaustion on descent",
+      "generalLocation": "Near Camp IV"
+    },
+    {
+      "name": "Kalpana Dash",
+      "date": "2019-05-23",
+      "age": 52,
+      "expedition": "Dreamers Destination Treks",
+      "nationality": "India",
+      "causeOfDeath": "Exhaustion on descent",
+      "generalLocation": "Near Balcony"
+    },
+    {
+      "name": "Kevin Hynes",
+      "date": "2019-05-24",
+      "age": 56,
+      "expedition": "360 Expeditions",
+      "nationality": "Ireland",
+      "causeOfDeath": "Altitude Sickness",
+      "generalLocation": "North Col"
+    },
+    {
+      "name": "Dhruba Bista",
+      "date": "2019-05-24",
+      "age": "unknown",
+      "expedition": "Himalayan Ecstasy (Ski) Treks",
+      "nationality": "Nepal",
+      "causeOfDeath": "Exhaustion and altitude sickness",
+      "generalLocation": "Base Camp following evacuation from Camp III"
+    },
+    {
+      "name": "Robin Haynes Fisher",
+      "date": "2019-05-25",
+      "age": 44,
+      "expedition": "Summit Climb/ Everest Parivar Expedition Ltd",
+      "nationality": "United Kingdom",
+      "causeOfDeath": "Exhaustion during descent",
+      "generalLocation": "100 metres below peak"
+    },
+    {
+      "name": "Christopher Jon Kullish",
+      "date": "2019-05-27",
+      "age": 62,
+      "expedition": "Climbing the Seven Summits",
+      "nationality": "United States",
+      "causeOfDeath": "Cardiac event during descent",
+      "generalLocation": "South Col"
+    }
+  ]
+}

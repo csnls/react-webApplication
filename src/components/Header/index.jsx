@@ -59,6 +59,9 @@ function Header() {
         <StyledLink to={`/survey/${questionNumber}`} $isFullLink>
           Faire le test
         </StyledLink>
+        <StyledLink theme={theme} to="/everest">
+          Everest
+        </StyledLink>
       </Menu>
     </NavMenu>
   )

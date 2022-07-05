@@ -68,3 +68,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+// to get freelances data : yourEmplacement\shiny-agency\7150606-API-React-intermediaire> npm start (on other port)
+// to get climbers data : yourEmplacement\shiny-agency\src\pages\Everest npx json-server --watch db.json --port 3004

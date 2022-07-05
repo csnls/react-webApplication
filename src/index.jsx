@@ -12,6 +12,7 @@ import styled from 'styled-components'
 import GlobalStyle from './utils/style/GlobalStyle'
 import { ThemeProvider } from './utils/context'
 import { SurveyProvider } from './utils/context'
+import Everest from './pages/Everest'
 
 var PageStyle = styled.div`
   max-width: 1000px;
@@ -41,6 +42,9 @@ ReactDOM.render(
               </Route>
               <Route path="/freelances">
                 <Freelances />
+              </Route>
+              <Route path="/everest">
+                <Everest />
               </Route>
               <Route>
                 <Error />

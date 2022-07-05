@@ -1,4 +1,4 @@
-import { useState } from 'react'
+/* import { useState } from 'react' */
 import { Link } from 'react-router-dom'
 import styled from 'styled-components'
 import colors from '../../utils/style/colors.js'
@@ -37,13 +37,14 @@ var CatchPhrase = styled.h1`
 `
 
 function Home() {
-  var [size, updateSize] = useState(1)
+  /*   var [size, updateSize] = useState(1) */
+
   return (
     <HomeContainer>
       <Container>
         <Row className="rows">
           <Col className="columns" sm={6}>
-            <CatchPhrase onClick={() => updateSize(size + 1)}>
+            <CatchPhrase /* onClick={() => updateSize(size + 1)} */>
               Repérez vos besoins, on s'occupe du reste avec les meilleurs
               talents
             </CatchPhrase>
