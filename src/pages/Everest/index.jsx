@@ -5,17 +5,20 @@ import CauseOfDeath from './CauseOfDeath'
 import { climbers } from './climbers'
 import ReactPaginate from 'react-paginate'
 import { useEffect } from 'react'
+import { Loader } from '../../utils/style/atoms.jsx'
+
+import Card from '../../components/Card'
+import styled from 'styled-components'
+
+var CardsContainer = styled.div`
+  display: grid;
+  gap: 20px;
+  grid-template-columns: repeat(2, 1fr);
+  color: black;
+`
 
 function Nepal() {
-  // Nationality
   var [activeNationality, setActiveNationality] = useState('')
-  var [activeCauseOfDeath, setActiveCauseOfDeath] = useState('')
-
-  // pagination
-  var [items, setItems] = useState([])
-  var [pageCount, setpageCount] = useState(0)
-  var limit = 10
-
   var nationalities = climbers.reduce(
     (accumulateur, valeurCourante) =>
       accumulateur.includes(valeurCourante.Nationality)
@@ -23,6 +26,7 @@ function Nepal() {
         : accumulateur.concat(valeurCourante.Nationality),
     []
   )
+  var [activeCauseOfDeath, setActiveCauseOfDeath] = useState('')
   var causesOfDeath = climbers.reduce(
     (accumulateur, valeurCourante) =>
       accumulateur.includes(valeurCourante.CauseOfDeath)
@@ -30,11 +34,15 @@ function Nepal() {
         : accumulateur.concat(valeurCourante.CauseOfDeath),
     []
   )
-
+  var [items, setItems] = useState([])
+  var [pageCount, setpageCount] = useState(0)
+  var limit = 10
+  var [isDataLoading, setDataLoading] = useState(false)
   var [error, setError] = useState(false)
 
-  // je récupère la data
+  // RETRIEVING CLIMBERS DATA
   useEffect(() => {
+    setDataLoading(true)
     var getClimbers = async () => {
       var res = await fetch(
         activeNationality && !activeCauseOfDeath
@@ -44,11 +52,7 @@ function Nepal() {
           : activeNationality && activeCauseOfDeath
           ? `http://localhost:3004/climbers?nationality=${activeNationality}&causeOfDeath=${activeCauseOfDeath}&_page=1&_limit=${limit}`
           : `http://localhost:3004/climbers?_page=1&_limit=${limit}`
-      ).catch((error) => {
-        console.log(error)
-        setError(true)
-      })
-
+      ).catch(setError)
       // j'ai récup les données de mon url
       var data = await res.json()
       // je mets ces données dans la variable data
@@ -57,13 +61,13 @@ function Nepal() {
       setpageCount(Math.ceil(total / limit))
       // je calcule le nombre de pages (nombre total d'éléments/10)
       setItems(data)
-      // je récupère la data
+      setDataLoading(false)
     }
     getClimbers()
     // là j'ai donc récupéré la donnée
   }, [activeNationality, activeCauseOfDeath, limit])
 
-  // ma page courante pour la pagination
+  // CURRENT PAGE IN PAGINATION
   var fetchClimbers = async (currentPage) => {
     var res = await fetch(
       activeNationality && !activeCauseOfDeath
@@ -74,12 +78,11 @@ function Nepal() {
         ? `http://localhost:3004/climbers?nationality=${activeNationality}&causeOfDeath=${activeCauseOfDeath}&_page=${currentPage}&_limit=${limit}`
         : `http://localhost:3004/climbers?_page=${currentPage}&_limit=${limit}`
     )
-
     var data = await res.json()
     return data
   }
 
-  // lorsque je clique sur la pagination, je change de page
+  // CHANGING PAGE IN PAGINATION
   var handlePageClick = async (data) => {
     console.log(data.selected)
     var currentPage = data.selected + 1
@@ -90,6 +93,23 @@ function Nepal() {
   if (error) {
     return <span>Oups il y a eu un problème</span>
   }
+
+  /*   var searchOnGoogle = (event) => {
+    console.log(event.target)
+    window.open(`https://google.com/search?q=${event.target}`)
+  }
+  // ça me retourne [object HTMLSpanElement] dans google
+  // ça me retourne le climber sélectionné dans le terminal 
+ */
+  /*   var searchOnGoogle = (event) => {
+    items.map((item) => {
+      console.log(event.target)
+      var abon = window.open(`https://google.com/search?q=${item.name}`)
+      return abon
+    })
+  } */
+  // ça me retourne les 10 climbers de la page dans google
+  // ça me retourne les 10 climbers de la page dans le terminal
 
   return (
     <div>
@@ -104,20 +124,41 @@ function Nepal() {
         activeCauseOfDeath={activeCauseOfDeath}
       />
 
-      {items.length ? (
+      {isDataLoading ? (
+        <Loader />
+      ) : (
         <div>
-          {items.map((item) =>
-            (!activeNationality || activeNationality === item.nationality) &&
-            (!activeCauseOfDeath ||
-              activeCauseOfDeath === item.causeOfDeath) ? (
-              <div key={item.id}>
-                {item.date} {item.nationality} {item.name} {item.causeOfDeath}
-              </div>
-            ) : null
+          {items.length ? (
+            <CardsContainer>
+              {items.map((item) => (
+                <div
+                  onClick={() =>
+                    window.open(
+                      `https://google.com/search?q=${
+                        item.name
+                      }+${item.date.substr(0, 4)}+Everest`
+                    )
+                  }
+                >
+                  {(!activeNationality ||
+                    activeNationality === item.nationality) &&
+                  (!activeCauseOfDeath ||
+                    activeCauseOfDeath === item.causeOfDeath) ? (
+                    <Card
+                      key={item.id}
+                      nationality={item.nationality}
+                      date={item.date}
+                      name={item.name}
+                      generalLocation={item.generalLocation}
+                    />
+                  ) : null}
+                </div>
+              ))}
+            </CardsContainer>
+          ) : (
+            <span>No death recorded, for now...</span>
           )}
         </div>
-      ) : (
-        <span>No death recorded, for now...</span>
       )}
 
       {pageCount < 2 ? null : (
